@@ -1,0 +1,2878 @@
+25-Hay-Bra:~ bradleyhayward$ _BLOCK - 1) / NGROUPS_PER_BLOCK;
+-bash: syntax error near unexpected token `)'
+25-Hay-Bra:~ bradleyhayward$ -bash: syntax error near unexpected token `('
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ /* Make sure we always allocate at least one indirect block pointer */
+> -bash: /Applications: is a directory
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ nblocks = nblocks ? : 1;
+> -bash: nblocks: command not found
+> 
+> group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);
+> 
+> if (!group_info)
+if (group_info-&gt;blocks[i] = b;)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> return NULL;
+> 
+> group_info-&gt;ngroups = gidsetsize;
+> 
+> group_info-&gt;nblocks = nblocks;
+> 
+> atomic_set(&amp;group_info-&gt;usage, 1);
+> 
+> 
+> 
+> if (gidsetsize &lt;= NGROUPS_SMALL)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> group_info-&gt;blocks[0] = group_info-&gt;small_block;
+> 
+> else {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> for (i = 0; i &lt; nblocks; i++) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> gid_t *b;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> b = (void *)__get_free_page(GFP_USER);
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> if (!b)
+if (b = (void *)__get_free_page(GFP_USER);)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> goto out_undo_partial_alloc;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> group_info-&gt;blocks[i] = b;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> }
+> 
+> }
+> 
+> return group_info;
+> 
+> 
+> 
+> out_undo_partial_alloc:
+> 
+> while (--i &gt;= 0) {
+
+		free_page((unsigned long)group_info-&gt;blocks[i]);
+
+	}
+
+	kfree(group_info);
+
+	return NULL;
+
+}
+
+
+
+EXPORT_SYMBOL(groups_alloc);
+
+
+
+void groups_free(struct group_info *group_info)
+
+{
+
+	if (group_info-&gt;blocks[0] != group_info-&gt;small_block) {
+
+		int i;
+
+		for (i = 0; i &lt; group_info-&gt;nblocks; i++)
+
+			free_page((unsigned long)group_info-&gt;bl25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);
+-bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ if (!group_info)
+if (group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);)
+-bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ 
+Display all 1667 possibilities? (y or n)
+25-Hay-Bra:~ bradleyhayward$  NULL;
+-bash: NULL: command not found
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ group_info-&> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> free_page((unsigned long)group_info-&gt;blocks[i]);
+> 
+> }
+> 
+> kfree(group_info);
+> 
+> return NULL;
+> 
+> }
+> 
+> 
+> 
+> EXPORT_SYMBOL(groups_alloc);
+> 
+> 
+> 
+> void groups_free(struct group_info *group_info)
+> 
+> {
+> 
+> if (group_info-&gt;blocks[0] != group_info-&gt;small_block) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> int i;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> for (i = 0; i &lt; group_info-&gt;nblocks; i++)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> free_page((unsigned long)group_info-&gt;bl25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);
+> -bash: syntax error near unexpected token `('
+-bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ 25-Hay-Bra:~ bradleyhayward$ 
+-bash: 25-Hay-Bra:~: command not found
+25-Hay-Bra:~ bradleyhayward$ 25-Hay-Bra:~ bradleyhayward$ if (!group_info)
+25-Hay-Bra:~ bradleyhayward$ if (group_info-&gt;blocks[i] = b;)
+-bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ if (group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);)
+-bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ -bash: syntax error near unexpected token `('
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ 
+> Display all 1667 possibilities? (y or n)
+> 25-Hay-Bra:~ bradleyhayward$  NULL;
+> -bash: NULL: command not found
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ group_info-&gt;ngroups = gidsetsize;
+> [1] 55450
+> -bash: group_info-: command not found
+> -bash: gt: command not found
+> [1]+  Exit 127                group_info-
+> -bash: ngroups: command not found
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ group_info-&gt;nblocks = nblocks;
+> 
+> atomic_set(&amp;group_info-&gt;usage, 1);
+> 
+> 
+> 
+> if (gidsetsize &lt;= NGROUPS_SMALL)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> group_info-&gt;blocks[0] = group_info-&gt;small_block;
+> 
+> else {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> for (i = 0; i &lt; nblocks; i++) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> gid_t *b;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> b = (void *)__get_free_page(GFP_USER);
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> if (!b)
+if (b = (void *)__get_free_page(GFP_USER);)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> goto out_undo_partial_alloc;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> group_info-&gt;blocks[i] = b;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> }
+> 
+> }
+> 
+> return group_info;
+> 
+> 
+> 
+> out_undo_partial_alloc:
+> 
+> while (--i &gt;= 0) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> free_page((unsigned long)group_info-&gt;blocks[i]);
+> 
+> }
+> 
+> kfree(group_info);
+> 
+> return NULL;
+> 
+> }
+> 
+> 
+> 
+> EXPORT_SYMBOL(groups_alloc);
+> 
+> 
+> 
+> void groups_free(struct group_info *group_info)
+> 
+> {
+> 
+> if (group_info-&gt;blocks[0] != group_info-&gt;small_block) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> int i;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> for (i = 0; i &lt; group_info-&gt;nblocks; i++)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> free_page((unsigned long)group_info-&gt;blocks[i]);
+> 
+> }
+> 
+> kfree(group_info);
+> 
+> }
+> 
+> 
+> 
+> EXPORT_SYMBOL(groups_free);
+> 
+> 
+> 
+> /* export the group_info to a user-space array */
+> 
+> static int groups_to_user(gid_t __user *grouplist,
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+>   co-bash: group_info-: command not found
+> [1] 55461
+> -bash: gt: command not found
+> [1]   Exit 127                group_info-
+> -bash: nblocks: command not found
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ atomic_set(&amp;group_info-&gt;usage, 1);
+> -bash: syntax error near unexpected token `&'
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ 
+> 
+> if (gidsetsize &lt;= NGROUPS_SMALL)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> group_info-&gt;blocks[0] = group_info-&gt;small_block;
+> 
+> else {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> for (i = 0; i &lt; nblocks; i++) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> gid_t *b;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> b = (void *)__get_free_page(GFP_USER);
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> if (!b)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> goto out_undo_partial_alloc;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> group_info-&gt;blocks[i] = b;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> }
+> 
+> }
+> 
+> return group_info;
+> 
+> 
+> 
+> out_undo_partial_alloc:
+> 
+> while (--i &gt;= 0) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> free_page((unsigned long)group_info-&gt;blocks[i]);
+> 
+> }
+> 
+> kfree(group_info);
+> 
+> return NULL;
+> 
+> }
+> 
+> 
+> 
+> EXPORT_SYMBOL(groups_alloc);
+> 
+> 
+> 
+> void groups_free(struct group_info *group_info)
+> 
+> {
+> 
+> if (group_info-&gt;blocks[0] != group_info-&gt;small_block) {
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> int i;
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> for (i = 0; i &lt; group_info-&gt;nblocks; i++)
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> free_page((unsigned long)group_info-&gt;blocks[i]);
+> 
+> }
+> 
+> kfree(group_info);
+> 
+> }
+> 
+> 
+> 
+> EXPORT_SYMBOL(groups_free);
+> 
+> 
+> 
+> /* export the group_info to a user-space array */
+> 
+> static int groups_to_user(gid_t __user *grouplist,
+> 
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+> 
+%ITER_FILE%           .config/              .tracker.prefs
+.CFUserTextEncoding   .cups/                .zsh_history
+.DS_Store             .eMPowerMEA/          Applications/
+.FlashPrint/          .gnome2/              Desktop/
+.Trash/               .gtk-bookmarks        Documents/
+.Xauthority           .local/               Downloads/
+.bash_history         .mono/                Library/
+.bash_profile         .oracle_jre_usage/    Movies/
+.bash_profile.pysave  .rnd                  Music/
+.bash_sessions/       .start_app_logs/      Pictures/
+.cache/               .thumbnails/          Public/
+>   const struct group_info *group_info)
+> 
+> {
+> 
+> int i;25-Hay-Bra:~ bradleyhayward$ 
+> 25-Hay-Bra:~ bradleyhayward$ if (gidsetsize &lt;= NGROUPS_SMALL)
+> > 
+> > 
+> %ITER_FILE%           .Xauthority           .cache/               .gtk-bookmarks        .start_app_logs/      Desktop/              Music/                
+> .CFUserTextEncoding   .bash_history         .config/              .local/               .thumbnails/          Documents/            Pictures/             
+> .DS_Store             .bash_profile         .cups/                .mono/                .tracker.prefs        Downloads/            Public/               
+> .FlashPrint/          .bash_profile.pysave  .eMPowerMEA/          .oracle_jre_usage/    .zsh_history          Library/              
+> .Trash/               .bash_sessions/       .gnome2/              .rnd                  Applications/         Movies/               
+> > group_info-&gt;blocks[0] = group_info-&gt;small_block;
+> > 
+> > else {
+> -bash: syntax error near unexpected token `else'
+[1] 78644
+-bash: command substitution: line 1: unexpected EOF while looking for matching `''
+-bash: command substitution: line 103: syntax error: unexpected end of file
+-bash: 
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ 
+
+if (gidsetsize &lt;= NGROUPS_SMALL)
+
+group_info-&gt;blocks[0] = group_info-&gt;small_block;
+
+else {
+
+for (i = 0; i &lt; nblocks; i++) {
+
+gid_t *b;
+
+b = (void *)__get_free_page(GFP_USER);
+
+if (!b)
+
+goto out_undo_partial_alloc;
+
+group_info-&gt;blocks[i] = b;
+
+}
+
+}
+
+return group_info;
+
+
+
+out_undo_partial_alloc:
+
+while (--i &gt;= 0) {
+
+free_page((unsigned long)group_info-&gt;blocks[i]);
+
+}
+
+kfree(group_info);
+
+return NULL;
+
+}
+
+
+
+EXPORT_SYMBOL(groups_alloc);
+
+
+
+void groups_free(struct group_info *group_info)
+
+{
+
+if (group_info-&gt;blocks[0] != group_info-&gt;small_block) {
+
+int i;
+
+for (i = 0; i &lt; group_info-&gt;nblocks; i++)
+
+free_page((unsigned long)group_info-&gt;blocks[i]);
+
+}
+
+kfree(group_info);
+
+}
+
+
+
+EXPORT_SYMBOL(groups_free);
+
+
+
+/* export the group_info to a user-space array */
+
+static int groups_to_user(gid_t __user *grouplist,
+
+  const struct group_info *group_info)
+
+{
+
+int i;25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ if (gidsetsize &lt;= NGROUPS_SMALL)
+> 
+> 
+%ITER_FILE%           .Xauthority           .cache/               .gtk-bookmarks        .start_app_logs/      Desktop/              Music/                
+.CFUserTextEncoding   .bash_history         .config/              .local/               .thumbnails/          Documents/            Pictures/             
+.DS_Store             .bash_profile         .cups/                .mono/                .tracker.prefs        Downloads/            Public/               
+.FlashPrint/          .bash_profile.pysave  .eMPowerMEA/          .oracle_jre_usage/    .zsh_history          Library/              
+.Trash/               .bash_sessions/       .gnome2/              .rnd                  Applications/         Movies/               
+> group_info-&gt;blocks[0] = group_info-&gt;small_block;
+> 
+> else {
+-bash: syntax error near unexpected token `else: File name too long
+-bash: -bash:: command not found
+[1]+  Exit 127                -bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ 
+Display all 1667 possibilities? (y or n)
+25-Hay-Bra:~ bradleyhayward$  NULL;
+-bash: NULL: command not found
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ group_info-&gt;ngroups = gidsetsize;
+[1] 55450
+-bash: group_info-: command not found
+-bash: gt: command not found
+[1]+  Exit 127                group_info-
+-bash: ngroups: command not found
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ group_info-&gt;nblocks = nblocks;
+
+atomic_set(&amp;group_info-&gt;usage, 1);
+
+
+
+if (gidsetsize &lt;= NGROUPS_SMALL)
+
+group_info-&gt;blocks[0] = group_info-&gt;small_block;
+
+else {
+
+for (i = 0; i &lt; nblocks; i++) {
+
+gid_t *b;
+
+b = (void *)__get_free_page(GFP_USER);
+
+if (b = (void *)__get_free_page(GFP_USER);)
+
+goto out_undo_partial_alloc;
+
+group_info-&gt;blocks[i] = b;
+
+}
+
+}
+
+return group_info;
+
+
+
+out_undo_partial_alloc:
+
+while (--i &gt;= 0) {
+
+free_page((unsigned long)group_info-&gt;blocks[i]);
+
+}
+
+kfree(group_info);
+
+return NULL;
+
+}
+
+
+
+EXPORT_SYMBOL(groups_alloc);
+
+
+
+void groups_free(struct group_info *group_info)
+
+{
+
+if (group_info-&gt;blocks[0] != group_info-&gt;small_block) {
+
+int i;
+
+for (i = 0; i &lt; group_info-&gt;nblocks; i++)
+
+free_page((unsigned long)group_info-&gt;blocks[i]);
+
+}
+
+kfree(group_info);
+
+}
+
+
+
+EXPORT_SYMBOL(groups_free);
+
+
+
+/* export the group_info to a user-space array */
+
+static int groups_to_user(gid_t __user *grouplist,
+
+  co-bash: group_info-: command not found
+[1] 55461
+-bash: gt: command not found
+[1]   Exit 127                group_info-
+-bash: nblocks: command not found
+25-Hay-Bra:~ bradleyhayward$ 
+25-Hay-Bra:~ bradleyhayward$ atomic_set(&amp;group_info-&gt;usage, 1);
+-bash: syntax error near unexpected token `
+25-Hay-Bra:~ bradleyhayward$ 25-Hay-Bra:~ bradleyhayward$ 
+-bash: 25-Hay-Bra:~: command not found
+25-Hay-Bra:~ bradleyhayward$ 25-Hay-Bra:~ bradleyhayward$ 
+-bash: 25-Hay-Bra:~: command not found
+25-Hay-Bra:~ bradleyhayward$ Display all 1667 possibilities? (y or n)
+-bash: syntax error near unexpected token `('
+25-Hay-Bra:~ bradleyhayward$ !                                   distnoted                           kdestroy                            perlivp5.18                         sqlite3
+2021-03-02 10:33:37.943 distnoted[78654:32111072] # distnote server kdestroy  absolute time: 335154.257222310   civil time: Tue Mar  2 10:33:37 2021   pid: 78654 uid: 502  root: no
+./                                  ditto                               kextcache                           perlivp5.28                         sqlmetal
+2to3                                dmc                                 kextfind                            perlthanks                          sqlsharp
+2to3-                               dmcs                                kextlibs                            perlthanks5.18                      ssh
+2to3-2.7                            dmesg                               kextload                            perlthanks5.28                      ssh-add
+2to3-3.5                            dnctl                               kextstat                            permview                            ssh-agent
+:                                   dns-sd                              kextunload                          peverify                            ssh-copy-id
+AppleFileServer                     do                                  kextutil                      Killed: 9
+25-Hay-Bra:~ bradleyhayward$ ./                                  ditto                               kextcache                           perlivp5.28                         sqlmetal
+-bash: ./: is a directory
+25-Hay-Bra:~ bradleyhayward$ 2to3                                dmc                                 kextfind                            perlthanks                          sqlsharp
+2to3-                               dmcs                                kextlibs                            perlthanks5.18                      ssh
+2to3-2.7                            dmesg                               kextload                            perlthanks5.28                      ssh-add
+2to3-3.5                            dnctl                               kextstat                            permview                            ssh-agent
+:                                   dns-sd                              kextunload                          peverify                            ssh-copy-id
+AppleFileServer                     do                                  kextutil                            pfbtops                             ssh-keygen
+AssetCacheLocatorUtil               done                                keytool                             pfctl                               ssh-keyscan
+AssetCacheManagerUtil               dot_clean                           kgetcred                 RefactoringTool: Skipping optional fixer: buffer
+RefactoringTool: Skipping optional fixer: idioms
+RefactoringTool: Skipping optional fixer: set_literal
+RefactoringTool: Skipping optional fixer: ws_comma
+RefactoringTool: Can't open dmc: [Errno 2] No such file or directory: 'dmc'
+RefactoringTool: Can't open kextfind: [Errno 2] No such file or directory: 'kextfind'
+RefactoringTool: Can't open perlthanks: [Errno 2] No such file or directory: 'perlthanks'
+RefactoringTool: Can't open sqlsharp: [Errno 2] No such file or directory: 'sqlsharp'
+RefactoringTool: No files need to be modified.
+RefactoringTool: There were 4 errors:
+RefactoringTool: Can't open dmc: [Errno 2] No such file or directory: 'dmc'
+RefactoringTool: Can't open kextfind: [Errno 2] No such file or directory: 'kextfind'
+RefactoringTool: Can't open perlthanks: [Errno 2] No such file or directory: 'perlthanks'
+RefactoringTool: Can't open sqlsharp: [Errno 2] No such file or directory: 'sqlsharp'
+25-Hay-Bra:~ bradleyhayward$ 2to3-                               dmcs                                kextlibs                            perlthanks5.18                      ssh
+2to3-2.7                            dmesg                               kextload                            perlthanks5.28                      ssh-add
+2to3-3.5                            dnctl                               kextstat                            permview                            ssh-agent
+:                                   dns-sd                              kextunload                          peverify                            ssh-copy-id
+AppleFileServer                     do                                  kextutil                            pfbtops                             ssh-keygen
+AssetCacheLocatorUtil               done                                keytool                             pfctl                               ssh-keyscan
+AssetCacheManagerUtil               dot_clean                           kgetcred                       AssetCache                               sshd
+AssetCacheTetheratorUtil            drutil                              kill                    RefactoringTool: Skipping optional fixer: buffer
+RefactoringTool: Skipping optional fixer: idioms
+RefactoringTool: Skipping optional fixer: set_literal
+RefactoringTool: Skipping optional fixer: ws_comma
+RefactoringTool: Can't open dmcs: [Errno 2] No such file or directory: 'dmcs'
+RefactoringTool: Can't open kextlibs: [Errno 2] No such file or directory: 'kextlibs'
+RefactoringTool: Can't open perlthanks5.18: [Errno 2] No such file or directory: 'perlthanks5.18'
+RefactoringTool: Can't open ssh: [Errno 2] No such file or directory: 'ssh'
+RefactoringTool: No files need to be modified.
+RefactoringTool: There were 4 errors:
+RefactoringTool: Can't open dmcs: [Errno 2] No such file or directory: 'dmcs'
+RefactoringTool: Can't open kextlibs: [Errno 2] No such file or directory: 'kextlibs'
+RefactoringTool: Can't open perlthanks5.18: [Errno 2] No such file or directory: 'perlthanks5.18'
+RefactoringTool: Can't open ssh: [Errno 2] No such file or directory: 'ssh'
+25-Hay-Bra:~ bradleyhayward$ 2to3-2.7                            dmesg                               kextload                            perlthanks5.28                      ssh-add
+2to3-3.5                            dnctl                               kextstat                            permview                            ssh-agent
+:                                   dns-sd                              kextunload                          peverify                            ssh-copy-id
+AppleFileServer                     do                                  kextutil                            pfbtops                             ssh-keygen
+AssetCacheLocatorUtil               done                                keytool                             pfctl                               ssh-keyscan
+AssetCacheManagerUtil               dot_clean                           kgetcred                       AssetCache                               sshd
+AssetCacheTetheratorUtil            drutil                              kill                                phar                                sso_util
+BootCacheControl                    dscacheutil                         kill.d                 RefactoringTool: Skipping optional fixer: buffer
+RefactoringTool: Skipping optional fixer: idioms
+RefactoringTool: Skipping optional fixer: set_literal
+RefactoringTool: Skipping optional fixer: ws_comma
+RefactoringTool: Can't open dmesg: [Errno 2] No such file or directory: 'dmesg'
+RefactoringTool: Can't open kextload: [Errno 2] No such file or directory: 'kextload'
+RefactoringTool: Can't open perlthanks5.28: [Errno 2] No such file or directory: 'perlthanks5.28'
+RefactoringTool: Can't open ssh-add: [Errno 2] No such file or directory: 'ssh-add'
+RefactoringTool: No files need to be modified.
+RefactoringTool: There were 4 errors:
+RefactoringTool: Can't open dmesg: [Errno 2] No such file or directory: 'dmesg'
+RefactoringTool: Can't open kextload: [Errno 2] No such file or directory: 'kextload'
+RefactoringTool: Can't open perlthanks5.28: [Errno 2] No such file or directory: 'perlthanks5.28'
+RefactoringTool: Can't open ssh-add: [Errno 2] No such file or directory: 'ssh-add'
+25-Hay-Bra:~ bradleyhayward$ 2to3-3.5                            dnctl                               kextstat                            permview                            ssh-agent
+:                                   dns-sd                              kextunload                          peverify                            ssh-copy-id
+AppleFileServer                     do                                  kextutil                            pfbtops                             ssh-keygen
+AssetCacheLocatorUtil               done                                keytool                             pfctl                               ssh-keyscan
+AssetCacheManagerUtil               dot_clean                           kgetcred                       AssetCache                               sshd
+AssetCacheTetheratorUtil            drutil                              kill                                phar                                sso_util
+BootCacheControl                    dscacheutil                         kill.d                       BootCacheControl                           stapler
+BuildStrings                        dscl                                killall                  RefactoringTool: Skipping optional fixer: buffer
+RefactoringTool: Skipping optional fixer: idioms
+RefactoringTool: Skipping optional fixer: set_literal
+RefactoringTool: Skipping optional fixer: ws_comma
+RefactoringTool: Can't open dnctl: [Errno 2] No such file or directory: 'dnctl'
+RefactoringTool: Can't open kextstat: [Errno 2] No such file or directory: 'kextstat'
+RefactoringTool: Can't open permview: [Errno 2] No such file or directory: 'permview'
+RefactoringTool: Can't open ssh-agent: [Errno 2] No such file or directory: 'ssh-agent'
+RefactoringTool: No files need to be modified.
+RefactoringTool: There were 4 errors:
+RefactoringTool: Can't open dnctl: [Errno 2] No such file or directory: 'dnctl'
+RefactoringTool: Can't open kextstat: [Errno 2] No such file or directory: 'kextstat'
+RefactoringTool: Can't open permview: [Errno 2] No such file or directory: 'permview'
+RefactoringTool: Can't open ssh-agent: [Errno 2] No such file or directory: 'ssh-agent'
+25-Hay-Bra:~ bradleyhayward$ :                                   dns-sd                              kextunload                          peverify                            ssh-copy-id
+25-Hay-Bra:~ bradleyhayward$ AppleFileServer                     do                                  kextutil                            pfbtops                             ssh-keygen
+AssetCacheLocatorUtil               done                                keytool                             pfctl                               ssh-keyscan
+AssetCacheManagerUtil               dot_clean                           kgetcred                       AssetCache                               sshd
+AssetCacheTetheratorUtil            drutil                              kill                                phar                                sso_util
+BootCacheControl                    dscacheutil                         kill.d                       BootCacheControl                           stapler
+BuildStrings                        dscl                                killall                             php                                 startx
+ClassInitGenerator                  dsconfigad                          kinit                               php-config                          stat
+CpMac                               dsconfigldap                        klist                               /System/Library/LaunchDaemons/com.apple.AppleFileServer.plist: Could not find specified service
+25-Hay-Bra:~ bradleyhayward$ AssetCacheLocatorUtil               done                                keytool                             pfctl                               ssh-keyscan
+2021-03-02 10:42:19.776 AssetCacheLocatorUtil[95331:32155801] AssetCacheLocatorUtil version 111.1, framework version 111.1
+2021-03-02 10:42:19.778 AssetCacheLocatorUtil[95331:32155801] Determining public IP address...
+AssetCacheManagerUtil               dot_clean                           kgetcred                       AssetCache                               sshd
+AssetCacheTetheratorUtil            drutil                              kill                                phar                                sso_util
+BootCacheControl                    dscacheutil                         kill.d                       BootCacheControl                           stapler
+BuildStrings                        dscl                                killall                             php                                 startx
+ClassInitGenerator                  dsconfigad                          kinit                               php-config                          stat
+CpMac                               dsconfigldap                        klist                               php-fpCpMac                         stringdups
+DeRez                               dseditgroup                         klist_cdhashes                      p2021-03-02 10:42:20.643 AssetCacheLocatorUtil[95331:32155801] This computer's public IP address is 169.244.23.126.
+2021-03-02 10:42:20.643 AssetCacheLocatorUtil[95331:32155801] --- Information for system services:
+2021-03-02 10:42:20.643 AssetCacheLocatorUtil[95331:32155801] Checking whether there might be content caches available...
+2021-03-02 10:42:20.796 AssetCacheLocatorUtil[95331:32155801] There might be content caches available.
+2021-03-02 10:42:20.796 AssetCacheLocatorUtil[95331:32155801] Finding saved content caches supporting personal caching...
+2021-03-02 10:42:20.800 AssetCacheLocatorUtil[95331:32155801] There is no saved result.  (This is not an error.)
+2021-03-02 10:42:20.800 AssetCacheLocatorUtil[95331:32155801] Finding saved content caches supporting personal caching and import...
+2021-03-02 10:42:20.802 AssetCacheLocatorUtil[95331:32155801] There is no saved result.  (This is not an error.)
+2021-03-02 10:42:20.802 AssetCacheLocatorUtil[95331:32155801] Finding saved content caches supporting shared caching...
+2021-03-02 10:42:20.802 AssetCacheLocatorUtil[95331:32155801] There is no saved result.  (This is not an error.)
+2021-03-02 10:42:20.803 AssetCacheLocatorUtil[95331:32155801] Determining saved configured public IP address ranges...
+2021-03-02 10:42:20.808 AssetCacheLocatorUtil[95331:32155801] No public IP address ranges are configured.
+2021-03-02 10:42:20.808 AssetCacheLocatorUtil[95331:32155801] Determining saved favored server ranges...
+2021-03-02 10:42:20.809 AssetCacheLocatorUtil[95331:32155801] No favored server ranges are configured.
+2021-03-02 10:42:20.809 AssetCacheLocatorUtil[95331:32155801] Finding refreshed content caches supporting personal caching...
+2021-03-02 10:42:22.488 AssetCacheLocatorUtil[95331:32155801] Found 2 content caches
+2021-03-02 10:42:22.488 AssetCacheLocatorUtil[95331:32155801] Finding refreshed content caches supporting personal caching and import...
+2021-03-02 10:42:22.490 AssetCacheLocatorUtil[95331:32155801] Found 2 content caches
+2021-03-02 10:42:22.490 AssetCacheLocatorUtil[95331:32155801] Finding refreshed content caches supporting shared caching...
+2021-03-02 10:42:22.491 AssetCacheLocatorUtil[95331:32155801] Found 2 content caches
+2021-03-02 10:42:22.492 AssetCacheLocatorUtil[95331:32155801] 10.0.1.11:49564, rank 1, not favored, healthy, guid 7174524B-8003-4A0F-8024-60561585BE1A, valid until 2021-03-02 11:42:21; supports personal caching: yes, and import: yes, shared caching: yes
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] 10.0.3.153:52918, rank 1, not favored, healthy, guid B2F8B7F1-5191-42C8-8B3B-03A56CE7590C, valid until 2021-03-02 11:42:21; supports personal caching: yes, and import: yes, shared caching: yes
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] Determining refreshed configured public IP address ranges...
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] No public IP address ranges are configured.
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] Determining refreshed favored server ranges...
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] No favored server ranges are configured.
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] --- Information for user 502 (results for other users may be different):
+2021-03-02 10:42:22.493 AssetCacheLocatorUtil[95331:32155801] Checking whether there might be content caches available...
+2021-03-02 10:42:22.633 AssetCacheLocatorUtil[95331:32155801] There might be content caches available.
+2021-03-02 10:42:22.633 AssetCacheLocatorUtil[95331:32155801] Finding saved content caches supporting personal caching...
+2021-03-02 10:42:22.634 AssetCacheLocatorUtil[95331:32155801] There is no saved result.  (This is not an error.)
+2021-03-02 10:42:22.634 AssetCacheLocatorUtil[95331:32155801] Finding saved content caches supporting personal caching and import...
+2021-03-02 10:42:22.635 AssetCacheLocatorUtil[95331:32155801] There is no saved result.  (This is not an error.)
+2021-03-02 10:42:22.635 AssetCacheLocatorUtil[95331:32155801] Finding saved content caches supporting shared caching...
+2021-03-02 10:42:22.636 AssetCacheLocatorUtil[95331:32155801] There is no saved result.  (This is not an error.)
+2021-03-02 10:42:22.636 AssetCacheLocatorUtil[95331:32155801] Determining saved configured public IP address ranges...
+2021-03-02 10:42:22.636 AssetCacheLocatorUtil[95331:32155801] No public IP address ranges are configured.
+2021-03-02 10:42:22.636 AssetCacheLocatorUtil[95331:32155801] Determining saved favored server ranges...
+2021-03-02 10:42:22.636 AssetCacheLocatorUtil[95331:32155801] No favored server ranges are configured.
+2021-03-02 10:42:22.636 AssetCacheLocatorUtil[95331:32155801] Finding refreshed content caches supporting personal caching...
+2021-03-02 10:42:22.909 AssetCacheLocatorUtil[95331:32155801] Found 2 content caches
+2021-03-02 10:42:22.909 AssetCacheLocatorUtil[95331:32155801] Finding refreshed content caches supporting personal caching and import...
+2021-03-02 10:42:22.911 AssetCacheLocatorUtil[95331:32155801] Found 2 content caches
+2021-03-02 10:42:22.911 AssetCacheLocatorUtil[95331:32155801] Finding refreshed content caches supporting shared caching...
+2021-03-02 10:42:22.913 AssetCacheLocatorUtil[95331:32155801] Found 2 content caches
+2021-03-02 10:42:22.913 AssetCacheLocatorUtil[95331:32155801] 10.0.1.11:49564, rank 1, not favored, healthy, guid 7174524B-8003-4A0F-8024-60561585BE1A, valid until 2021-03-02 11:42:22; supports personal caching: yes, and import: yes, shared caching: yes
+2021-03-02 10:42:22.913 AssetCacheLocatorUtil[95331:32155801] 10.0.3.153:52918, rank 1, not favored, healthy, guid B2F8B7F1-5191-42C8-8B3B-03A56CE7590C, valid until 2021-03-02 11:42:22; supports personal caching: yes, and import: yes, shared caching: yes
+2021-03-02 10:42:22.913 AssetCacheLocatorUtil[95331:32155801] Determining refreshed configured public IP address ranges...
+2021-03-02 10:42:22.913 AssetCacheLocatorUtil[95331:32155801] No public IP address ranges are configured.
+2021-03-02 10:42:22.913 AssetCacheLocatorUtil[95331:32155801] Determining refreshed favored server ranges...
+2021-03-02 10:42:22.914 AssetCacheLocatorUtil[95331:32155801] No favored server ranges are configured.
+2021-03-02 10:42:22.914 AssetCacheLocatorUtil[95331:32155801] Testing all found content caches for reachability...
+2021-03-02 10:42:22.927 AssetCacheLocatorUtil[95331:32155801] This computer is able to reach all of the above content caches.
+25-Hay-Bra:~ bradleyhayward$ AssetCacheManagerUtil               dot_clean                           kgetcred                       AssetCache                               sshd
+must run as root
+25-Hay-Bra:~ bradleyhayward$ AssetCacheTetheratorUtil            drutil                              kill                                phar                                sso_util
+2021-03-02 10:42:23.001 AssetCacheTetheratorUtil[95454:32156226] Usage: AssetCacheTetheratorUtil [-j|--json] enable | disable | isEnabled | status
+25-Hay-Bra:~ bradleyhayward$ BootCacheControl                    dscacheutil                         kill.d                       BootCacheControl                           stapler
+invalid command
+Usage: BootCacheControl [-vvv] [-f <playlistfile>] start
+           Start recording history and play back <playlistfile>.
+       BootCacheControl [-vvv] [-f <playlistfile>] stop
+           Stop recording history and write the playlist to <playlistfile>.
+       BootCacheControl mount
+           Notify the boot cache of a new mount.
+       BootCacheControl [-vvv] jettison
+           Jettison the cache.
+       BootCacheControl statistics
+           Print statistics for the currently-active cache.
+       BootCacheControl tag
+           Insert the end-prefetch tag.
+       BootCacheControl [-vvv] [-t batchnum] -f <playlistfile> merge <playlistfile1> [<playlistfile2>...]
+           Merge <playlistfile1>... into <playlistfile>.
+           Playlist files after the first will be offset <batchnum> batches, if provided
+       BootCacheControl -f <playlistfile> print
+           Print the contents of <playlistfile>.
+       BootCacheControl -f <playlistfile> unprint
+           Read a playlist from standard input and write to <playlistfile>.
+       BootCacheControl -f <playlistfile> truncate <count>
+           Truncate <playlistfile> to <count> entries.
+       BootCacheControl -f <playlistfile> generalize
+           Modify <playlistfile> to apply to any root volume.
+BuildStrings                        dscl                                killall                             php                                 startx
+ClassInitGenerator                  dsconfigad                          kinit                               php-config                          stat
+CpMac                               dsconfigldap                        klist                               php-fpCpMac                         stringdups
+DeRez                               dseditgroup                         klist_cdhashes                      phpize                              strings
+DevToolsSecurity                    dsenableroot                        koi8rxterm                          pic               25-Hay-Bra:~ bradleyhayward$ Build                     killall                             php                                 startx
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ ClassInitGenerator                  dsconfigad                          kinit                               php-config                          stat
+CpMac                               dsconfigldap                        klist                               php-fpCpMac                         stringdups
+DeRez                               dseditgroup                         klist_cdhashes                      phpize                              strings
+DevToolsSecurity                    dsenableroot                        koi8rxterm                          pic                                 strip
+DirectoryService                    dserr                               kpasswd                             pico                                stty
+GetFileInfo                         dsexport                            krb5-config                         piconv                              stty.pl
+IOAccelMemory                       dsimport                            krbservicesetup                     piconv5.18                          stty5.18.pl
+IronRuby.Tests                      dsmemberutil                        ksh                             
+25-Hay-Bra:~ bradleyhayward$ CpMac                               dsconfigldap                        klist                               php-fpCpMac                         stringdups
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ DeRez                               dseditgroup                         klist_cdhashes                      phpize                              strings
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ DevToolsSecurity                    dsenableroot                        koi8rxterm                          pic                                 strip
+DirectoryService                    dserr                               kpasswd                             pico                                stty
+GetFileInfo                         dsexport                            krb5-config                         piconv                              stty.pl
+IOAccelMemory                       dsimport                            krbservicesetup                     piconv5.18                          stty5.18.pl
+IronRuby.Tests                      dsmemberutil                        ksh                                 piconv5.28                          stty5.28.pl
+KernelEventAgent                    dsymutil                            kswitch                             pidpersec.d                         su
+MergePef                            dtd2rng                             ktrace                              ping                                sudo
+MvMac                               dtd2xsd                             ktutil                              pError modifying right definition (system.privilege.taskport.debug): The authorization was canceled by the user.
+25-Hay-Bra:~ bradleyhayward$ DirectoryService                    dserr                               kpasswd                             pico                                stty
+Usage:	DirectoryService [-hv]
+	-h	Display this list of options.
+	-v	Display the release version.
+25-Hay-Bra:~ bradleyhayward$ GetFileInfo                         dsexport                            krb5-config                         piconv                              stty.pl
+IOAccelMemory                       dsimport                            krbservicesetup                     piconv5.18                          stty5.18.pl
+IronRuby.Tests                      dsmemberutil                        ksh                                 piconv5.28                          stty5.28.pl
+KernelEventAgent                    dsymutil                            kswitch                             pidpersec.d                         su
+MergePef                            dtd2rng                             ktrace                              ping                                sudo
+MvMac                               dtd2xsd                             ktutil                              ping6                               sum
+PasswordService                     dtrace                              lam                                 pip3                                suspend
+ResMerger                           dtruss                              languagesetup                       pixcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ IOAccelMemory                       dsimport                            krbservicesetup                     piconv5.18                          stty5.18.pl
+IronRuby.Tests                      dsmemberutil                        ksh                                 piconv5.28                          stty5.28.pl
+KernelEventAgent                    dsymutil                            kswitch                             pidpersec.d                         su
+MergePef                            dtd2rng                             ktrace                              ping                                sudo
+MvMac                               dtd2xsd                             ktutil                              ping6                               sum
+PasswordService                     dtrace                              lam                                 pip3                                suspend
+ResMerger                           dtruss                              languagesetup                       pip3.5                              svcutil
+Rez                                 du                                  last                                pkgbuiIOAccelMemory failed to collect data from RobloxPlayer.39535: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from Google Chrome He.57116: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from Google Chrome He.57133: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from Unknown Process.58605: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from ParentalControls.60209: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from Unknown Process.95457: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from Unknown Process.95507: timeout (typically because the process is dead or sandboxed)
+IOAccelMemory failed to collect data from WindowServer.51288: timeout (typically because the process is dead or sandboxed)
+
+System Memory Pool
+Process                              Allocated         Dirty      Resident         Cache    CacheDirty  CacheNoPurge         Wired         Purge     Non Purge      Orphaned
+kernel_task.0                          77.3 MB       60.7 MB       60.7 MB         80 KB             0             0       10.2 MB         64 KB       60.6 MB        5.9 MB
+Dock.34620                              6.1 MB             0             0             0             0             0             0             0             0             0
+RobloxPlayer.39535                    639.3 MB      247.1 MB      247.1 MB       12.4 MB       12.4 MB             0      246.7 MB             0      247.1 MB      314.2 MB
+loginwindow.51282                     128.4 MB         80 KB         80 KB             0             0             0         80 KB             0         80 KB             0
+WindowServer.51288                    557.5 MB      104.7 MB      104.7 MB       55.6 MB       20.8 MB             0      103.5 MB             0      104.7 MB        948 KB
+NotificationCent.52276                  4.6 MB             0             0             0             0             0             0             0             0             0
+WiFiAgent.52291                         4.6 MB             0             0             0             0             0             0             0             0             0
+SystemUIServer.52389                    4.6 MB             0             0             0             0             0             0             0             0             0
+Finder.52390                            4.6 MB             0             0             0             0             0             0             0             0             0
+Google Chrome.57104                     4.6 MB             0             0             0             0             0             0             0             0         12 KB
+Google Chrome He.57116                  148 MB        2.5 MB        2.5 MB        2.4 MB          8 KB         20 KB        448 KB          2 MB        476 KB      702.4 MB
+Google Chrome He.57133                   20 KB             0             0             0             0             0             0             0             0             0
+Unknown Process.58605                   9.3 MB        8.7 MB        8.7 MB         64 KB             0             0        8.7 MB             0        8.7 MB          8 KB
+ParentalControls.60209                  4.6 MB             0             0             0             0             0             0             0             0             0
+Terminal.71245                          4.7 MB             0             0             0             0             0             0             0             0        224 KB
+Console.92900                           4.6 MB        4.4 MB        4.4 MB             0             0             0        4.3 MB             0        4.4 MB         16 KB
+Unknown Process.95457                   4.6 MB        4.4 MB        4.4 MB             0             0             0        4.4 MB             0        4.4 MB         16 KB
+Unknown Process.95507                   4.6 MB        4.3 MB        4.3 MB             0             0             0        4.3 MB             0        4.3 MB         12 KB
+
+Total                                  1.51 GB      428.6 MB      428.7 MB       62.3 MB       24.9 MB         20 KB      374.5 MB        2.1 MB      426.6 MB    1,023.6 MB
+25-Hay-Bra:~ bradleyhayward$ IronRuby.Tests                      dsmemberutil                        ksh                                 piconv5.28                          stty5.28.pl
+KernelEventAgent                    dsymutil                            kswitch                             pidpersec.d                         su
+MergePef                            dtd2rng                             ktrace                              ping                                sudo
+MvMac                               dtd2xsd                             ktutil                              ping6                               sum
+PasswordService                     dtrace                              lam                                 pip3                                suspend
+ResMerger                           dtruss                              languagesetup                       pip3.5                              svcutil
+Rez                                 du                                  last                                pkgbuild                            svn
+RezDet                              dwarfdump                           lastcomm                            pkgutil       PASSED
+25-Hay-Bra:~ bradleyhayward$                      pluginkit                           symbolscache
+Usage: pluginkit -m [-ADv] [-p protocol] [-i identifier] [key[=value]] ... # match
+	pluginkit -[ar] plugin-path ... # add/remove
+	pluginkit -e election [-p protocol] [-i identifier] [key[=value]] ... # change user election
+25-Hay-Bra:~ bradleyhayward$ Xephyr                              edquota                             ldapadd                             plutil                              sync
+Xfake                               egrep                               ldapcompare                         pmset                               sysadminctl
+Xnest                               elif                                ldapdelete                          png-fix-itxt                        syscallbypid.d
+Xorg                                else                                ldapexop                            pngfix                              syscallbyproc.d
+Xquartz                             emond                               ldapmodify                          pod2html                            syscallbysysc.d
+Xvfb                                enable                              ldapmodrdn                          pod2html5.18                        sysctl
+[                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+[[                                  enc2xs5.18                          ldapUnrecognized option: edquota
+use: X [:<display>] [option]
+-a #                   mouse acceleration (pixels)
+-ac                    disable access control restrictions
+-audit int             set audit trail level
+-auth file             select authorization file
+-br                    create root window with black background
++bs                    enable any backing store support
+-bs                    disable any backing store support
+-c                     turns off key-click
+c #                    key-click volume (0-100)
+-cc int                default color visual class
+-core                  generate core dump on fatal error
+-dpi int               screen resolution in dots per inch
+dpms                   enables VESA DPMS monitor control
+-dpms                  disables VESA DPMS monitor control
+-deferglyphs [none|all|16] defer loading of [no|all|16-bit] glyphs
+-f #                   bell base (0-100)
+-fc string             cursor font
+-fn string             default font name
+-fp string             default font path
+-help                  prints message with these options
+-I                     ignore all remaining arguments
+-ld int                limit data space to N Kb
+-lf int                limit number of open files to N
+-ls int                limit stack space to N Kb
+-logo                  enable logo in screen saver
+nologo                 disable logo in screen saver
+-nolisten string       don't listen on protocol
+-noreset               don't reset after last client exists
+-reset                 reset after last client exists
+-p #                   screen-saver pattern duration (minutes)
+-pn                    accept failure to listen on all ports
+-nopn                  reject failure to listen on all ports
+-r                     turns off auto-repeat
+r                      turns on auto-repeat 
+-render [default|mono|gray|color] set render color alloc policy
+-retro                 start with classic stipple and cursor
+-s #                   screen-saver timeout (minutes)
+-t #                   mouse threshold (pixels)
+-terminate             terminate at server reset
+-to #                  connection time out
+-tst                   disable testing extensions
+ttyxx                  server started from init on /dev/ttyxx
+v                      video blanking for screen-saver
+-v                     screen-saver without video blanking
+-wm                    WhenMapped default backing-store
+-wr                    create root window with white background
+-x string              loads named extension at init time 
+-maxbigreqsize         set maximal bigrequest size 
++xinerama              Enable XINERAMA extension
+-xinerama              Disable XINERAMA extension
+-dumbSched             Disable smart scheduling, enable old behavior
+-schedInterval int     Set scheduler interval in msec
++extension name        Enable extension
+-extension name        Disable extension
+-query host-name       contact named host for XDMCP
+-broadcast             broadcast for XDMCP
+-multicast [addr [hops]] IPv6 multicast for XDMCP
+-indirect host-name    contact named host for indirect XDMCP
+-port port-num         UDP port number to send messages to
+-from local-address    specify the local address to connect from
+-once                  Terminate server after one session
+-class display-class   specify display class to send in manage
+-cookie xdm-auth-bits  specify the magic cookie for XDMCP
+-displayID display-id  manufacturer display ID for request
+-kb                    disable the X Keyboard Extension
++kb                    enable the X Keyboard Extension
+[+-]accessx [ timeout [ timeout_mask [ feedback [ options_mask] ] ] ]
+                       enable/disable accessx key sequences
+-ardelay               set XKB autorepeat delay
+-arinterval            set XKB autorepeat interval
+
+TinyX Device Dependent Usage:
+-card pcmcia     Use PCMCIA card as additional screen
+-screen WIDTH[/WIDTHMM]xHEIGHT[/HEIGHTMM][@ROTATION][X][Y][xDEPTH/BPP{,DEPTH/BPP}[xFREQ]]  Specify screen characteristics
+-rgba rgb/bgr/vrgb/vbgr/none   Specify subpixel ordering for LCD panels
+-mouse driver [,n,,options]    Specify the pointer driver and its options (n is the number of buttons)
+-keybd driver [,,options]      Specify the keyboard driver and its options
+-zaphod          Disable cursor screen switching
+-2button         Emulate 3 button mouse
+-3button         Disable 3 button mouse emulation
+-rawcoord        Don't transform pointer coordinates on rotation
+-dumb            Disable hardware acceleration
+-softCursor      Force software cursor
+-videoTest       Start the server, pause momentarily and exit
+-origin X,Y      Locates the next screen in the the virtual screen (Xinerama)
+-switchCmd       Command to execute on vt switch
+-zap             Terminate server on Ctrl+Alt+Backspace
+vtxx             Use virtual terminal xx instead of the next available
+
+Xephyr Option Usage:
+-parent <XID>        Use existing window as Xephyr root win
+-host-cursor         Re-use exisiting X host server cursor
+-fullscreen          Attempt to run Xephyr fullscreen
+-grayscale           Simulate 8bit grayscale
+-fakexa              Simulate acceleration using software rendering
+-verbosity <level>   Set log verbosity level
+-noxv                do not use XV
+-name [name]         define the name in the WM_CLASS property
+
+25-Hay-Bra:~ bradleyhayward$ Xfake                               egrep                               ldapcompare                         pmset                               sysadminctl
+Xnest                               elif                                ldapdelete                          png-fix-itxt                        syscallbypid.d
+Xorg                                else                                ldapexop                            pngfix                              syscallbyproc.d
+Xquartz                             emond                               ldapmodify                          pod2html                            syscallbysysc.d
+Xvfb                                enable                              ldapmodrdn                          pod2html5.18                        sysctl
+[                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+[[                                  enc2xs5.18                          ldapsearch[[                        pod2latex                           syslog
+]]                                  enc2xs5.28                          ldapurl  Unrecognized option: egrep
+use: X [:<display>] [option]
+-a #                   default pointer acceleration (factor)
+-ac                    disable access control restrictions
+-audit int             set audit trail level
+-auth file             select authorization file
+-br                    create root window with black background
++bs                    enable any backing store support
+-bs                    disable any backing store support
+-c                     turns off key-click
+c #                    key-click volume (0-100)
+-cc int                default color visual class
+-nocursor              disable the cursor
+-core                  generate core dump on fatal error
+-displayfd fd          file descriptor to write display number to when ready to connect
+-dpi int               screen resolution in dots per inch
+-dpms                  disables VESA DPMS monitor control
+-deferglyphs [none|all|16] defer loading of [no|all|16-bit] glyphs
+-f #                   bell base (0-100)
+-fc string             cursor font
+-fn string             default font name
+-fp string             default font path
+-help                  prints message with these options
++iglx                  Allow creating indirect GLX contexts
+-iglx                  Prohibit creating indirect GLX contexts (default)
+-I                     ignore all remaining arguments
+-ld int                limit data space to N Kb
+-lf int                limit number of open files to N
+-ls int                limit stack space to N Kb
+-nolock                disable the locking mechanism
+-maxclients n          set maximum number of clients (power of two)
+-nolisten string       don't listen on protocol
+-listen string         listen on protocol
+-noreset               don't reset after last client exists
+-background [none]     create root window with no background
+-reset                 reset after last client exists
+-p #                   screen-saver pattern duration (minutes)
+-pn                    accept failure to listen on all ports
+-nopn                  reject failure to listen on all ports
+-r                     turns off auto-repeat
+r                      turns on auto-repeat 
+-render [default|mono|gray|color] set render color alloc policy
+-retro                 start with classic stipple and cursor
+-s #                   screen-saver timeout (minutes)
+-seat string           seat to run on
+-t #                   default pointer threshold (pixels/t)
+-terminate             terminate at server reset
+-to #                  connection time out
+-tst                   disable testing extensions
+ttyxx                  server started from init on /dev/ttyxx
+v                      video blanking for screen-saver
+-v                     screen-saver without video blanking
+-wm                    WhenMapped default backing-store
+-wr                    create root window with white background
+-maxbigreqsize         set maximal bigrequest size 
++xinerama              Enable XINERAMA extension
+-xinerama              Disable XINERAMA extension
+-dumbSched             Disable smart scheduling, enable old behavior
+-schedInterval int     Set scheduler interval in msec
+-sigstop               Enable SIGSTOP based startup
++extension name        Enable extension
+-extension name        Disable extension
+-query host-name       contact named host for XDMCP
+-broadcast             broadcast for XDMCP
+-multicast [addr [hops]] IPv6 multicast for XDMCP
+-indirect host-name    contact named host for indirect XDMCP
+-port port-num         UDP port number to send messages to
+-from local-address    specify the local address to connect from
+-once                  Terminate server after one session
+-class display-class   specify display class to send in manage
+-cookie xdm-auth-bits  specify the magic cookie for XDMCP
+-displayID display-id  manufacturer display ID for request
+[+-]accessx [ timeout [ timeout_mask [ feedback [ options_mask] ] ] ]
+                       enable/disable accessx key sequences
+-ardelay               set XKB autorepeat delay
+-arinterval            set XKB autorepeat interval
+
+TinyX Device Dependent Usage:
+-screen WIDTH[/WIDTHMM]xHEIGHT[/HEIGHTMM][+[-]XOFFSET][+[-]YOFFSET][@ROTATION][X][Y][xDEPTH/BPP[xFREQ]]  Specify screen characteristics
+-rgba rgb/bgr/vrgb/vbgr/none   Specify subpixel ordering for LCD panels
+-mouse driver [,n,,options]    Specify the pointer driver and its options (n is the number of buttons)
+-keybd driver [,,options]      Specify the keyboard driver and its options
+-zaphod          Disable cursor screen switching
+-2button         Emulate 3 button mouse
+-3button         Disable 3 button mouse emulation
+-rawcoord        Don't transform pointer coordinates on rotation
+-dumb            Disable hardware acceleration
+-softCursor      Force software cursor
+-videoTest       Start the server, pause momentarily and exit
+-origin X,Y      Locates the next screen in the the virtual screen (Xinerama)
+-switchCmd       Command to execute on vt switch
+-zap             Terminate server on Ctrl+Alt+Backspace
+vtxx             Use virtual terminal xx instead of the next available
+(EE) 
+Fatal server error:
+(EE) Unrecognized option: egrep
+(EE) 
+25-Hay-Bra:~ bradleyhayward$ Xnest                               elif                                ldapdelete                          png-fix-itxt                        syscallbypid.d
+Xorg                                else                                ldapexop                            pngfix                              syscallbyproc.d
+Xquartz                             emond                               ldapmodify                          pod2html                            syscallbysysc.d
+Xvfb                                enable                              ldapmodrdn                          pod2html5.18                        sysctl
+[                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+[[                                  enc2xs5.18                          ldapsearch[[                        pod2latex                           syslog
+]]                                  enc2xs5.28                          ldapurl        ]]                   pod2latex5.18                       syslogd
+a2p                                 encguess                            ldapwhoami      Unrecognized option: elif
+use: X [:<display>] [option]
+-a #                   default pointer acceleration (factor)
+-ac                    disable access control restrictions
+-audit int             set audit trail level
+-auth file             select authorization file
+-br                    create root window with black background
++bs                    enable any backing store support
+-bs                    disable any backing store support
+-c                     turns off key-click
+c #                    key-click volume (0-100)
+-cc int                default color visual class
+-nocursor              disable the cursor
+-core                  generate core dump on fatal error
+-displayfd fd          file descriptor to write display number to when ready to connect
+-dpi int               screen resolution in dots per inch
+-dpms                  disables VESA DPMS monitor control
+-deferglyphs [none|all|16] defer loading of [no|all|16-bit] glyphs
+-f #                   bell base (0-100)
+-fc string             cursor font
+-fn string             default font name
+-fp string             default font path
+-help                  prints message with these options
++iglx                  Allow creating indirect GLX contexts
+-iglx                  Prohibit creating indirect GLX contexts (default)
+-I                     ignore all remaining arguments
+-ld int                limit data space to N Kb
+-lf int                limit number of open files to N
+-ls int                limit stack space to N Kb
+-nolock                disable the locking mechanism
+-maxclients n          set maximum number of clients (power of two)
+-nolisten string       don't listen on protocol
+-listen string         listen on protocol
+-noreset               don't reset after last client exists
+-background [none]     create root window with no background
+-reset                 reset after last client exists
+-p #                   screen-saver pattern duration (minutes)
+-pn                    accept failure to listen on all ports
+-nopn                  reject failure to listen on all ports
+-r                     turns off auto-repeat
+r                      turns on auto-repeat 
+-render [default|mono|gray|color] set render color alloc policy
+-retro                 start with classic stipple and cursor
+-s #                   screen-saver timeout (minutes)
+-seat string           seat to run on
+-t #                   default pointer threshold (pixels/t)
+-terminate             terminate at server reset
+-to #                  connection time out
+-tst                   disable testing extensions
+ttyxx                  server started from init on /dev/ttyxx
+v                      video blanking for screen-saver
+-v                     screen-saver without video blanking
+-wm                    WhenMapped default backing-store
+-wr                    create root window with white background
+-maxbigreqsize         set maximal bigrequest size 
++xinerama              Enable XINERAMA extension
+-xinerama              Disable XINERAMA extension
+-dumbSched             Disable smart scheduling, enable old behavior
+-schedInterval int     Set scheduler interval in msec
+-sigstop               Enable SIGSTOP based startup
++extension name        Enable extension
+-extension name        Disable extension
+-query host-name       contact named host for XDMCP
+-broadcast             broadcast for XDMCP
+-multicast [addr [hops]] IPv6 multicast for XDMCP
+-indirect host-name    contact named host for indirect XDMCP
+-port port-num         UDP port number to send messages to
+-from local-address    specify the local address to connect from
+-once                  Terminate server after one session
+-class display-class   specify display class to send in manage
+-cookie xdm-auth-bits  specify the magic cookie for XDMCP
+-displayID display-id  manufacturer display ID for request
+[+-]accessx [ timeout [ timeout_mask [ feedback [ options_mask] ] ] ]
+                       enable/disable accessx key sequences
+-ardelay               set XKB autorepeat delay
+-arinterval            set XKB autorepeat interval
+-display string        display name of the real server
+-sync                  sinchronize with the real server
+-full                  utilize full regeneration
+-class string          default visual class
+-depth int             default depth
+-sss                   use software screen saver
+-geometry WxH+X+Y      window size and position
+-bw int                window border width
+-name string           window name
+-scrns int             number of screens to generate
+-install               instal colormaps directly
+(EE) 
+Fatal server error:
+(EE) Unrecognized option: elif
+(EE) 
+25-Hay-Bra:~ bradleyhayward$ Xorg                                else                                ldapexop                            pngfix                              syscallbyproc.d
+Xquartz                             emond                               ldapmodify                          pod2html                            syscallbysysc.d
+Xvfb                                enable                              ldapmodrdn                          pod2html5.18                        sysctl
+[                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+[[                                  enc2xs5.18                          ldapsearch[[                        pod2latex                           syslog
+]]                                  enc2xs5.28                          ldapurl        ]]                   pod2latex5.18                       syslogd
+a2p                                 encguess                            ldapwhoami            a2p           pod2man                             system_profiler
+a2p5.18                             encguess5.28                        leaks           Unrecognized option: else
+use: X [:<display>] [option]
+-a #                   default pointer acceleration (factor)
+-ac                    disable access control restrictions
+-audit int             set audit trail level
+-auth file             select authorization file
+-br                    create root window with black background
++bs                    enable any backing store support
+-bs                    disable any backing store support
+-c                     turns off key-click
+c #                    key-click volume (0-100)
+-cc int                default color visual class
+-nocursor              disable the cursor
+-core                  generate core dump on fatal error
+-displayfd fd          file descriptor to write display number to when ready to connect
+-dpi int               screen resolution in dots per inch
+-dpms                  disables VESA DPMS monitor control
+-deferglyphs [none|all|16] defer loading of [no|all|16-bit] glyphs
+-f #                   bell base (0-100)
+-fc string             cursor font
+-fn string             default font name
+-fp string             default font path
+-help                  prints message with these options
++iglx                  Allow creating indirect GLX contexts
+-iglx                  Prohibit creating indirect GLX contexts (default)
+-I                     ignore all remaining arguments
+-ld int                limit data space to N Kb
+-lf int                limit number of open files to N
+-ls int                limit stack space to N Kb
+-nolock                disable the locking mechanism
+-maxclients n          set maximum number of clients (power of two)
+-nolisten string       don't listen on protocol
+-listen string         listen on protocol
+-noreset               don't reset after last client exists
+-background [none]     create root window with no background
+-reset                 reset after last client exists
+-p #                   screen-saver pattern duration (minutes)
+-pn                    accept failure to listen on all ports
+-nopn                  reject failure to listen on all ports
+-r                     turns off auto-repeat
+r                      turns on auto-repeat 
+-render [default|mono|gray|color] set render color alloc policy
+-retro                 start with classic stipple and cursor
+-s #                   screen-saver timeout (minutes)
+-seat string           seat to run on
+-t #                   default pointer threshold (pixels/t)
+-terminate             terminate at server reset
+-to #                  connection time out
+-tst                   disable testing extensions
+ttyxx                  server started from init on /dev/ttyxx
+v                      video blanking for screen-saver
+-v                     screen-saver without video blanking
+-wm                    WhenMapped default backing-store
+-wr                    create root window with white background
+-maxbigreqsize         set maximal bigrequest size 
++xinerama              Enable XINERAMA extension
+-xinerama              Disable XINERAMA extension
+-dumbSched             Disable smart scheduling, enable old behavior
+-schedInterval int     Set scheduler interval in msec
+-sigstop               Enable SIGSTOP based startup
++extension name        Enable extension
+-extension name        Disable extension
+-query host-name       contact named host for XDMCP
+-broadcast             broadcast for XDMCP
+-multicast [addr [hops]] IPv6 multicast for XDMCP
+-indirect host-name    contact named host for indirect XDMCP
+-port port-num         UDP port number to send messages to
+-from local-address    specify the local address to connect from
+-once                  Terminate server after one session
+-class display-class   specify display class to send in manage
+-cookie xdm-auth-bits  specify the magic cookie for XDMCP
+-displayID display-id  manufacturer display ID for request
+[+-]accessx [ timeout [ timeout_mask [ feedback [ options_mask] ] ] ]
+                       enable/disable accessx key sequences
+-ardelay               set XKB autorepeat delay
+-arinterval            set XKB autorepeat interval
+
+
+Device Dependent Usage
+-modulepath paths      specify the module search path
+-logfile file          specify a log file name
+-configure             probe for devices and write an xorg.conf
+-showopts              print available options for all installed drivers
+-config file           specify a configuration file, relative to the
+                       xorg.conf search path, only root can use absolute
+-configdir dir         specify a configuration directory, relative to the
+                       xorg.conf.d search path, only root can use absolute
+-verbose [n]           verbose startup messages
+-logverbose [n]        verbose log messages
+-quiet                 minimal startup messages
+-pixmap24              use 24bpp pixmaps for depth 24
+-pixmap32              use 32bpp pixmaps for depth 24
+-fbbpp n               set bpp for the framebuffer. Default: 8
+-depth n               set colour depth. Default: 8
+-gamma f               set gamma value (0.1 < f < 10.0) Default: 1.0
+-rgamma f              set gamma value for red phase
+-ggamma f              set gamma value for green phase
+-bgamma f              set gamma value for blue phase
+-weight nnn            set RGB weighting at 16 bpp.  Default: 565
+-layout name           specify the ServerLayout section name
+-screen name           specify the Screen section name
+-keyboard name         specify the core keyboard InputDevice name
+-pointer name          specify the core pointer InputDevice name
+-nosilk                disable Silken Mouse
+-flipPixels            swap default black/white Pixel values
+-disableVidMode        disable mode adjustments with xvidtune
+-allowNonLocalXvidtune allow xvidtune to be run as a non-local client
+-allowMouseOpenFail    start server even if the mouse can't be initialized
+-ignoreABI             make module ABI mismatches non-fatal
+-version               show the server version
+-showDefaultModulePath show the server default module path
+-showDefaultLibPath    show the server default library path
+-novtswitch            don't automatically switch VT at reset & exit
+-sharevts              share VTs with another X server
+
+(EE) 
+Fatal server error:
+(EE) Unrecognized option: else
+(EE) 
+(EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+(EE) 
+25-Hay-Bra:~ bradleyhayward$ Xquartz                             emond                               ldapmodify                          pod2html                            syscallbysysc.d
+Xvfb                                enable                              ldapmodrdn                          pod2html5.18                        sysctl
+[                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+[[                                  enc2xs5.18                          ldapsearch[[                        pod2latex                           syslog
+]]                                  enc2xs5.28                          ldapurl        ]]                   pod2latex5.18                       syslogd
+a2p                                 encguess                            ldapwhoami            a2p           pod2man                             system_profiler
+a2p5.18                             encguess5.28                        leaks                               pod2man5.18                         systemextensionsctl
+ab                                  encode_keychange                    leave       25-Hay-Bra:~ bradleyhayward$ Xvfb                                enable                          ldapmodrdn                          pod2html5.18                        sysctl
+[                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+[[                                  enc2xs5.18                          ldapsearch[[                        pod2latex                           syslog
+]]                                  enc2xs5.28                          ldapurl        ]]                   pod2latex5.18                       syslogd
+a2p                                 encguess                            ldapwhoami            a2p           pod2man                             system_profiler
+a2p5.18                             encguess5.28                        leaks                               pod2man5.18                         systemextensionsctl
+ab                                  encode_keychange                    leave             ab                       5.28                         systemkeychain
+ac                                  env                                 lessUnrecognized option: enable
+use: X [:<display>] [option]
+-a #                   default pointer acceleration (factor)
+-ac                    disable access control restrictions
+-audit int             set audit trail level
+-auth file             select authorization file
+-br                    create root window with black background
++bs                    enable any backing store support
+-bs                    disable any backing store support
+-c                     turns off key-click
+c #                    key-click volume (0-100)
+-cc int                default color visual class
+-nocursor              disable the cursor
+-core                  generate core dump on fatal error
+-displayfd fd          file descriptor to write display number to when ready to connect
+-dpi int               screen resolution in dots per inch
+-dpms                  disables VESA DPMS monitor control
+-deferglyphs [none|all|16] defer loading of [no|all|16-bit] glyphs
+-f #                   bell base (0-100)
+-fc string             cursor font
+-fn string             default font name
+-fp string             default font path
+-help                  prints message with these options
++iglx                  Allow creating indirect GLX contexts
+-iglx                  Prohibit creating indirect GLX contexts (default)
+-I                     ignore all remaining arguments
+-ld int                limit data space to N Kb
+-lf int                limit number of open files to N
+-ls int                limit stack space to N Kb
+-nolock                disable the locking mechanism
+-maxclients n          set maximum number of clients (power of two)
+-nolisten string       don't listen on protocol
+-listen string         listen on protocol
+-noreset               don't reset after last client exists
+-background [none]     create root window with no background
+-reset                 reset after last client exists
+-p #                   screen-saver pattern duration (minutes)
+-pn                    accept failure to listen on all ports
+-nopn                  reject failure to listen on all ports
+-r                     turns off auto-repeat
+r                      turns on auto-repeat 
+-render [default|mono|gray|color] set render color alloc policy
+-retro                 start with classic stipple and cursor
+-s #                   screen-saver timeout (minutes)
+-seat string           seat to run on
+-t #                   default pointer threshold (pixels/t)
+-terminate             terminate at server reset
+-to #                  connection time out
+-tst                   disable testing extensions
+ttyxx                  server started from init on /dev/ttyxx
+v                      video blanking for screen-saver
+-v                     screen-saver without video blanking
+-wm                    WhenMapped default backing-store
+-wr                    create root window with white background
+-maxbigreqsize         set maximal bigrequest size 
++xinerama              Enable XINERAMA extension
+-xinerama              Disable XINERAMA extension
+-dumbSched             Disable smart scheduling, enable old behavior
+-schedInterval int     Set scheduler interval in msec
+-sigstop               Enable SIGSTOP based startup
++extension name        Enable extension
+-extension name        Disable extension
+-query host-name       contact named host for XDMCP
+-broadcast             broadcast for XDMCP
+-multicast [addr [hops]] IPv6 multicast for XDMCP
+-indirect host-name    contact named host for indirect XDMCP
+-port port-num         UDP port number to send messages to
+-from local-address    specify the local address to connect from
+-once                  Terminate server after one session
+-class display-class   specify display class to send in manage
+-cookie xdm-auth-bits  specify the magic cookie for XDMCP
+-displayID display-id  manufacturer display ID for request
+[+-]accessx [ timeout [ timeout_mask [ feedback [ options_mask] ] ] ]
+                       enable/disable accessx key sequences
+-ardelay               set XKB autorepeat delay
+-arinterval            set XKB autorepeat interval
+-screen scrn WxHxD     set screen's width, height, depth
+-pixdepths list-of-int support given pixmap depths
++/-render		   turn on/off RENDER extension support(default on)
+-linebias n            adjust thin line pixelization
+-blackpixel n          pixel value for black
+-whitepixel n          pixel value for white
+-fbdir directory       put framebuffers in mmap'ed files in directory
+-shmem                 put framebuffers in shared memory
+(EE) 
+Fatal server error:
+(EE) Unrecognized option: enable
+(EE) 
+25-Hay-Bra:~ bradleyhayward$ [                                   enc2xs                              ldappasswd                          pod2html5.28                        sysdiagnose
+-bash: [: missing `]'
+25-Hay-Bra:~ bradleyhayward$ [[                                  enc2xs5.18                          ldapsearch[[                        pod2latex                           syslog
+-bash: conditional binary operator expected
+-bash: syntax error near `ldapsearch[['
+25-Hay-Bra:~ bradleyhayward$ ]]                                  enc2xs5.28                          ldapurl        ]]                   pod2latex5.18                       syslogd
+-bash: syntax error near unexpected token `]]'
+25-Hay-Bra:~ bradleyhayward$ a2p                                 encguess                            ldapwhoami            a2p           pod2man                             system_profiler
+Awk script "encguess" doesn't seem to exist.
+25-Hay-Bra:~ bradleyhayward$ a2p5.18                             encguess5.28                        leaks                               pod2man5.18                         systemextensionsctl
+Awk script "encguess5.28" doesn't seem to exist.
+25-Hay-Bra:~ bradleyhayward$ ab                                  encode_keychange                    leave             ab                       5.28                         systemkeychain
+ac                                  env                                 less                                pod2readme                          systemsetup
+accton                              eqn                                 lessecho                            pod2readme5.18                      systemsoundserverd
+actool                              erb                                 let                                 pod2readme5.28                      systemstats
+addftinfo                           errinfo                             lex                                 pod2text                            tab2space
+afclip                              esac                                libnetcfg                           pod2text5.18                        tabs
+afconvert                           eval                                libnetcfg5.18                       pod2text5.28                        tail
+afhash                              ex                                  libnetcfg5.28      ab: wrong number of arguments
+Usage: ab [options] [http[s]://]hostname[:port]/path
+Options are:
+    -n requests     Number of requests to perform
+    -c concurrency  Number of multiple requests to make at a time
+    -t timelimit    Seconds to max. to spend on benchmarking
+                    This implies -n 50000
+    -s timeout      Seconds to max. wait for each response
+                    Default is 30 seconds
+    -b windowsize   Size of TCP send/receive buffer, in bytes
+    -B address      Address to bind to when making outgoing connections
+    -p postfile     File containing data to POST. Remember also to set -T
+    -u putfile      File containing data to PUT. Remember also to set -T
+    -T content-type Content-type header to use for POST/PUT data, eg.
+                    'application/x-www-form-urlencoded'
+                    Default is 'text/plain'
+    -v verbosity    How much troubleshooting info to print
+    -w              Print out results in HTML tables
+    -i              Use HEAD instead of GET
+    -x attributes   String to insert as table attributes
+    -y attributes   String to insert as tr attributes
+    -z attributes   String to insert as td or th attributes
+    -C attribute    Add cookie, eg. 'Apache=1234'. (repeatable)
+    -H attribute    Add Arbitrary header line, eg. 'Accept-Encoding: gzip'
+                    Inserted after all normal header lines. (repeatable)
+    -A attribute    Add Basic WWW Authentication, the attributes
+                    are a colon separated username and password.
+    -P attribute    Add Basic Proxy Authentication, the attributes
+                    are a colon separated username and password.
+    -X proxy:port   Proxyserver and port number to use
+    -V              Print version number and exit
+    -k              Use HTTP KeepAlive feature
+    -d              Do not show percentiles served table.
+    -S              Do not show confidence estimators and warnings.
+    -q              Do not show progress when doing more than 150 requests
+    -l              Accept variable document length (use this for dynamic pages)
+    -g filename     Output collected data to gnuplot format file.
+    -e filename     Output CSV file with percentages served
+    -r              Don't exit on socket receive errors.
+    -m method       Method name
+    -h              Display usage information (this message)
+    -I              Disable TLS Server Name Indication (SNI) extension
+    -Z ciphersuite  Specify SSL/TLS cipher suite (See openssl ciphers)
+    -f protocol     Specify SSL/TLS protocol
+                    (TLS1, TLS1.1, TLS1.2 or ALL)
+    -E certfile     Specify optional client certificate chain and private key
+25-Hay-Bra:~ bradleyhayward$ ac                                  env                                 less                                pod2readme                          systemsetup
+	total        0.00
+25-Hay-Bra:~ bradleyhayward$ accton                              eqn                                 lessecho                            pod2readme5.18                      systemsoundserverd
+usage: accton [file]
+25-Hay-Bra:~ bradleyhayward$ actool                              erb                                 let                                 pod2readme5.28                      systemstats
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ addftinfo                           errinfo                             lex                                 pod2text                            tab2space
+usage: addftinfo [-v] [-param value] ... resolution unitwidth font
+afclip                              esac                                libnetcfg                           pod2text5.18                        tabs
+afconvert                           eval                                libnetcfg5.18                       pod2text5.28                        tail
+afhash                              ex                                  libnetcfg5.28                       pod2usage                           tailspin
+afida                               exec                                libpng-config                       pod2usage5.18                       talk
+afinfo                              execsnoop                           libpng16-config                     pod2usage5.28                       tar
+afmtodit                            exit                                libtool                             podchecker                          taskinfo
+afplay                              expand                              link                                podchecke25-Hay-Bra:~ bradleyhayward$ afclip                             libnetcfg                           pod2text5.18                        tabs
+Failed to open file "esac" : err = 2003334207 ?thw
+
+Failed to open file "libnetcfg" : err = 2003334207 ?thw
+
+Failed to open file "pod2text5.18" : err = 2003334207 ?thw
+
+Failed to open file "tabs" : err = 2003334207 ?thw
+
+25-Hay-Bra:~ bradleyhayward$ afconvert                           eval                                libnetcfg5.18                       pod2text5.28                        tail
+
+    Audio File Convert
+    Version: 2.0
+    Copyright 2003-2013, Apple Inc. All Rights Reserved.
+    Specify -h (-help) for command options
+
+Usage:
+afconvert [option...] input_file [output_file]
+    Options may appear before or after the direct arguments. If output_file
+    is not specified, a name is generated programmatically and the file
+    is written into the same directory as input_file.
+afconvert input_file [-o output_file [option...]]...
+    Output file options apply to the previous output_file. Other options
+    may appear anywhere.
+Help oafhash                              ex                                  libnetcfg5.28                       pod2usage                           tailspin
+afida                               exec                                libpng-config                       pod2usage5.18                       talk
+afinfo                              execsnoop                           libpng16-config                     pod2usage5.28                       tar
+afmtodit                            exit                                libtool                             podchecker                          taskinfo
+afplay                              expand                              link                                podchecker5.18                      taskpolicy
+afscexpand                          expect                              lipo                                podchecker5.28                      tbl
+agentxtrap                          export                              listres                             podsptions:
+    { -hf | --help-formats }
+        print a list of supported file/data formats
+    { -h | --help }
+        print help
+25-Hay-Bra:~ bradleyhayward$ afhash                              ex                                  libnetcfg5.28                       pod2usage                           tailspin
+Open file ex failed. Error: 2003334207
+25-Hay-Bra:~ bradleyhayward$ afida                               exec                                libpng-config                       pod2usage5.18                       talk
+
+    Audio File Image Distortion Analyzer
+    Version: 1.0
+    Copyright 2013, Apple Inc. All Rights Reserved.
+    Specify -h for command options
+
+afida compares a reference audio file with a distorted version and estimates
+the perceivable spatial image distortions in terms of image shift and width.
+
+Distortions smaller than 1.0 are usually inaudible. Larger values indicate
+increasing distortions on an open-ended perceptual scale. The analysis is based
+on 5 second windows at a rate of 1 per second. The time stamp indicates
+the end of the analysis window of the current distortion results in seconds.
+The total distortion combines the size and width distortion in a single value.
+
+Example:
+To compare a reference WAV file with an encoded MP4 version with a different
+channel layout and to produce distortion values for the entire duration
+with a threshold of 2.0 use:
+
+afida -o 2 -t 2.0 -l MPEG_5_1_A -l MPEG_5_1_D TrackRef.wav TrackEncoded.mp4
+
+Confirm the results by listening to the sections with the largest distortions.
+
+Usage:  afida [OPTIONS] REFERENCE_FILE TEST_FILE
+-------------------------------------------------
+OPTIONS can be a combination of:
+
+-o OUTPUT_TYPE    Display results selected by bit flags.
+                  1 = time of maximum distortion and value.
+                  2 = time stamps and corresponding distortions.
+                  Default = 1.
+
+-t THRESHOLD      Suppress output for distortions below THRESHOLD.
+                  Use with -o 2. Default = 1.
+
+-l CHANNEL_LAYOUT Set channel layout. If specified once, applies to both files.
+                  If specified twice, the first applies to REFERENCE_FILE.
+                  Ignoring layouts given in files. Supported:
+                  MPEG_5_0_A, MPEG_5_0_B, MPEG_5_0_C, MPEG_5_0_D,
+                  MPEG_5_1_A, MPEG_5_1_B, MPEG_5_1_C, MPEG_5_1_D.
+                  2.0 format supported without explicit layout.
+
+-d DELAY          Delay of TEST_FILE compared to REFERENCE_FILE in frames.
+                  If DELAY > 0 the first frames of TEST_FILE are skipped.
+                  Otherwise the first frames of REFERENCE_FILE are skipped.
+                  Default = 0.
+
+-h                print this help message
+25-Hay-Bra:~ bradleyhayward$ afinfo                              execsnoop                           libpng16-config                     pod2usage5.28                       tar
+afmtodit                            exit                                libtool                             podchecker                          taskinfo
+afplay                              expand                              link                                podchecker5.18                      taskpolicy
+afscexpand                          expect                              lipo                                podchecker5.28                      tbl
+agentxtrap                          export                              listres                             podselect                           tbtdiagnose
+agvtool                             expr                                lkbib                               podselect5.18                       tccutil
+al                                  extcheck                            lldb                                podselect5.28                       tclsh
+al2                                 eyapp                               llvm-g++                        File:           execsnoop
+Fail: AudioFileOpenURL failed
+File:           libpng16-config
+Fail: AudioFileOpenURL failed
+File:           pod2usage5.28
+Fail: AudioFileOpenURL failed
+File:           tar
+Fail: AudioFileOpenURL failed
+25-Hay-Bra:~ bradleyhayward$ afmtodit                            exit                                libtool                             podchecker                          taskinfo
+afplay                              expand                              link                                podchecker5.18                      taskpolicy
+afscexpand                          expect                              lipo                                podchecker5.28                      tbl
+agentxtrap                          export                              listres                             podselect                           tbtdiagnose
+agvtool                             expr                                lkbib                               podselect5.18                       tccutil
+al                                  extcheck                            lldb                                podselect5.28                       tclsh
+al2                                 eyapp                               llvm-g++                            policytool                          tclsh8.5
+alias                               eyapp5.18                           llvm-gcc                        usage: afmtodit [-mnsvx] [-a angle] [-d DESC] [-e encoding]
+       [-i n] afmfile mapfile font
+25-Hay-Bra:~ bradleyhayward$ afplay                              expand                              link                                podchecker5.18                      taskpolicy
+may only specify one file to play
+
+    Audio File Play
+    Version: 2.0
+    Copyright 2003-2013, Apple Inc. All Rights Reserved.
+    Specify -h (-help) for command options
+
+Usage:
+afplay [option...] audio_file
+
+Options: (may appear before or after arguments)
+  {-v | --volume} VOLUME
+    set the volume for playback of the file
+  {-h | --help}
+    print help
+  { --leaks}
+    run leaks analysis
+  {-t | --time} TIME
+    play for TIME seconds
+  {-r | --rate} RATE
+    play at playback rate
+  {-q | --rQuality} QUALITY
+    set the quality used for rate-scaled playback (default is 0 - low quality, 1 - high quality)
+  {-d | --debug}
+    debug print output
+afscexpand                          expect                              lipo                                podchecker5.28                      tbl
+agentxtrap                          export                              listres                             podselect                           tbtdiagnose
+agvtool                             expr                                lkbib                               podselect5.18                       tccutil
+al                                  extcheck                            lldb                                podselect5.28                       tclsh
+al2                                 eyapp                               llvm-g++                            policytool                          tclsh8.5
+alias                               eyapp5.18                           llvm-gcc                            popd                                tcpdump
+amt                                 eyapp5.28                           ln                                 25-Hay-Bra:~ bradleyhayward$ afscexpand                                   lipo                                podchecker5.28                      tbl
+Failed to stat file at path 'expect'; error 2 (No such file or directory)
+25-Hay-Bra:~ bradleyhayward$ agentxtrap                          export                              listres                             podselect                           tbtdiagnose
+agvtool                             expr                                lkbib                               podselect5.18                       tccutil
+al                                  extcheck                            lldb                                podselect5.28                       tclsh
+al2                                 eyapp                               llvm-g++                            policytool                          tclsh8.5
+alias                               eyapp5.18                           llvm-gcc                            popd                                tcpdump
+amt                                 eyapp5.28                           ln                                  post-grohtml                        tcsh
+apachectl                           false                               lndir                               postalias                           tee
+apfs_hfs_convert                    fastcgi-mono-server                 loads.d                             postcaNo log handling enabled - using stderr logging
+export: Unknown Object Identifier (Sub-id not found: (top) -> export)
+25-Hay-Bra:~ bradleyhayward$ agvtool                             expr                                lkbib                               podselect5.18                       tccutil
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ al                                  extcheck                            lldb                                podselect5.28                       tclsh
+al2                                 eyapp                               llvm-g++                            policytool                          tclsh8.5
+alias                               eyapp5.18                           llvm-gcc                            popd                                tcpdump
+amt                                 eyapp5.28                           ln                                  post-grohtml                        tcsh
+apachectl                           false                               lndir                               postalias                           tee
+apfs_hfs_convert                    fastcgi-mono-server                 loads.d                             postcat                             test
+app-sso                             fastcgi-mono-server2                local                               postconf                            texi2dvi
+applesingle                         fastcgi-mono-server4                locale                              postdrALINK: error A1017: No target filename was specified
+25-Hay-Bra:~ bradleyhayward$ al2                                 eyapp                               llvm-g++                            policytool                          tclsh8.5
+alias                               eyapp5.18                           llvm-gcc                            popd                                tcpdump
+amt                                 eyapp5.28                           ln                                  post-grohtml                        tcsh
+apachectl                           false                               lndir                               postalias                           tee
+apfs_hfs_convert                    fastcgi-mono-server                 loads.d                             postcat                             test
+app-sso                             fastcgi-mono-server2                local                               postconf                            texi2dvi
+applesingle                         fastcgi-mono-server4                locale                              postdrop    ap                      texi2pdf
+appletviewer                        fc                                  localedef                           postfiALINK: error A1017: No target filename was specified
+25-Hay-Bra:~ bradleyhayward$ alias                               eyapp5.18                           llvm-gcc                            popd                                tcpdump
+-bash: alias: eyapp5.18: not found
+-bash: alias: llvm-gcc: not found
+-bash: alias: popd: not found
+-bash: alias: tcpdump: not found
+25-Hay-Bra:~ bradleyhayward$ amt                                 eyapp5.28                           ln                                  post-grohtml                        tcsh
+Please run as audit administrator.
+25-Hay-Bra:~ bradleyhayward$ apachectl                           false                               lndir                               postalias                           tee
+apfs_hfs_convert                    fastcgi-mono-server                 loads.d                             postcat                             test
+app-sso                             fastcgi-mono-server2                local                               postconf                            texi2dvi
+applesingle                         fastcgi-mono-server4                locale                              postdrop    ap                      texi2pdf
+appletviewer                        fc                                  localedef                           postfix                             texindex
+apply                               fc-cache                            localemanager                       postkick                            textutil
+appres                              fc-cat                              locate                              postlock                            tfmtodit
+appsleepd                           fc-list                             lockstat                        Usage: /usr/sbin/httpd [-D name] [-d directory] [-f file]
+                       [-C "directive"] [-c "directive"]
+                       [-k start|restart|graceful|graceful-stop|stop]
+                       [-v] [-V] [-h] [-l] [-L] [-t] [-T] [-S] [-X]
+Options:
+  -D name            : define a name for use in <IfDefine name> directives
+  -d directory       : specify an alternate initial ServerRoot
+  -f file            : specify an alternate ServerConfigFile
+  -C "directive"     : process directive before reading config files
+  -c "directive"     : process directive after reading config files
+  -e level           : show startup errors of level (see LogLevel)
+  -E file            : log startup errors to file
+  -v                 : show version number
+  -V                 : show compile settings
+  -h                 : list available command line options (this page)
+  -l                 : list compiled in modules
+  -L                 : list available configuration directives
+  -t -D DUMP_VHOSTS  : show parsed vhost settings
+  -t -D DUMP_RUN_CFG : show parsed run settings
+  -S                 : a synonym for -t -D DUMP_VHOSTS -D DUMP_RUN_CFG
+  -t -D DUMP_MODULES : show all loaded modules 
+  -M                 : a synonym for -t -D DUMP_MODULES
+  -t -D DUMP_INCLUDES: show all included configuration files
+  -t                 : run syntax check for config files
+  -T                 : start without DocumentRoot(s) check
+  -X                 : debug mode (only one worker, do not detach)
+25-Hay-Bra:~ bradleyhayward$ apfs_hfs_convert                    fastcgi-mono-server                 loads.d                             postcat                             test
+Invalid number of devices
+Usage: apfs_hfs_convert [-D] [-e] [-v] [-s] [-S <path>] [-n] [-F n] [-M <mount_path>] [-o <option>] <device_path> [<secondary device_path>]
+    -D    Convert all former and current directory hard links to files/aliases. 
+    -e    Estimate apfs metadata size.
+    -v    Enable verbose output.
+    -s    Force the APFS volume to be case-sensitive.
+    -S <path>
+          Print statistics and information about the converson to the given <path>.
+    -n    Don't finalize conversion (dry run).  Volume remains HFS.
+    -f    Force conversion if volume is dirty.
+    -F n  Slice #n (0-based) should be fixed size.
+    -g	   Change GPT GUID to APFS at end of conversion (relevant only for raw hfs volumes, and hfs volumes inside core storage).
+    -k	   Change GPT GUID to Apple_KFS during conversion (relevant only for core storage).
+    -x	   Changes standard output to contain statistics in XML format. All error messages and non statistics output is redirected to /var/log/hfs_convert.log
+    -M <mount_path>
+          Use the given path to mount APFS during conversion.
+    -o <nx_or_apfs_format_options>
+          Format options passed through to nx_format and apfs_newfs.
+    --watchdog=<seconds>
+          Conversion will abort after <seconds> seconds.  Default is 600 seconds for dry run, unlimited otherwise.
+    --efi=<efi driver file name>
+          efi driver will be embedded in the nx superblock.
+    --preboot=<preboot directory full path>
+          Preboot volume will be created and filled with the contents of the preboot directory.
+    --bootefi=<boot efi driver directory full path>
+          Preboot volume will be blessed with the boot efi driver.
+25-Hay-Bra:~ bradleyhayward$ app-sso                             fastcgi-mono-server2                local                               postconf                            texi2dvi
+25-Hay-Bra:~ bradleyhayward$ applesingle                         fastcgi-mono-server4                locale                              postdrop    ap                      texi2pdf
+appletviewer                        fc                                  localedef                           postfix                             texindex
+apply                               fc-cache                            localemanager                       postkick                            textutil
+appres                              fc-cat                              locate                              postlock                            tfmtodit
+appsleepd                           fc-list                             lockstat                            postlog                             tftp
+apropos                             fc-match                            log                                 postmap                             then
+apt                                 fc-pattern                          logger                              postmulti                           thermal
+ar                                  fc-query                            login                               papplesingle: cannot open "fastcgi-mono-server4" (2 - No such file or directory).
+25-Hay-Bra:~ bradleyhayward$ appletviewer                        fc                                  localedef                           postfix                             texindex
+apply                               fc-cache                            localemanager                       postkick                            textutil
+appres                              fc-cat                              locate                              postlock                            tfmtodit
+appsleepd                           fc-list                             lockstat                            postlog                             tftp
+apropos                             fc-match                            log                                 postmap                             then
+apt                                 fc-pattern                          logger                              postmulti                           thermal
+ar                                  fc-query                            login                               postqueue                           tic
+arch                                fc-scan                             logname                             postsuWarning: Applet API and AppletViewer are deprecated.
+Warning: Can't read AppletViewer properties file: /Users/bradleyhayward/.hotjava/properties Using defaults.
+I/O exception while reading: /Users/bradleyhayward/fc (No such file or directory)
+25-Hay-Bra:~ bradleyhayward$ apply                               fc-cache                            localemanager                       postkick                            textutil
+appres                              fc-cat                              locate                              postlock                            tfmtodit
+appsleepd                           fc-list                             lockstat                            postlog                             tftp
+apropos                             fc-match                            log                                 postmap                             then
+apt                                 fc-pattern                          logger                              postmulti                           thermal
+ar                                  fc-query                            login                               postqueue                           tic
+arch                                fc-scan                             logname                             postsuper                           tidy
+arp                                 fc-validate                         logout                              power_repo25-Hay-Bra:~ bradleyhayward$ appres                            locate                              postlock                            tfmtodit
+appsleepd                           fc-list                             lockstat                            postlog                             tftp
+apropos                             fc-match                            log                                 postmap                             then
+apt                                 fc-pattern                          logger                              postmulti                           thermal
+ar                                  fc-query                            login                               postqueue                           tic
+arch                                fc-scan                             logname                             postsuper                           tidy
+arp                                 fc-validate                         logout                              power_report.sh a                   tiff2icns
+as                                  fcgistarter                         logresolve                          powermetrusage:  appres  [class [instance]] [-1] [-V] [toolkitoptions]
+-1      list resources only at the specified level
+-V      print command version and exit
+The number of class and instance elements must be equal.
+25-Hay-Bra:~ bradleyhayward$ appsleepd                           fc-list                             lockstat                            postlog                             tftp
+Illegal instruction: 4
+25-Hay-Bra:~ bradleyhayward$ apropos                             fc-match                            log                                 postmap                             then
+apt                                 fc-pattern                          logger                              postmulti                           thermal
+ar                                  fc-query                            login                               postqueue                           tic
+arch                                fc-scan                             logname                             postsuper                           tidy
+arp                                 fc-validate                         logout                              power_report.sh a                   tiff2icns
+as                                  fcgistarter                         logresolve                          powermetrics                        tiffutil
+asa                                 fddist                              look                                ppdc                                time
+asctl                               fdesetup                            lookbib fc-match(1)              - match available fonts
+mprof-report(1)          - report generator for Mono's log profiler
+DejaView(8)              - -- reconstruct state in a log archive at a given time
+NetAuthAgent(8)          - Shows dialogs on behalf of NetAuthSysAgent
+PerfPowerServices(8)     - manages structured log archives that enable retrieval of system power and performance data
+PerfPowerServicesExtended(8) - manages structured log archives that enable retrieval of system power and performance data
+ReportMemoryException(8) - generates memory usage diagnostic logs
+asl.conf(5)              - configuration file for syslogd(8) and aslmanager(8)
+aslmanager(8)            - Apple System Log data life-cycle manager
+auditd(8)                - audit log management daemon
+builtin(1), !(1), %(1), .(1), :(1), @(1), {(1), }(1), alias(1), alloc(1), bg(1), bind(1), bindkey(1), break(1), breaksw(1), builtins(1), case(1), cd(1), chdir(1), command(1), complete(1), continue(1), default(1), dirs(1), do(1), done(1), echo(1), echotc(1), elif(1), else(1), end(1), endif(1), endsw(1), esac(1), eval(1), exec(1), exit(1), export(1), false(1), fc(1), fg(1), filetest(1), fi(1), for(1), foreach(1), getopts(1), glob(1), goto(1), hash(1), hashstat(1), history(1), hup(1), if(1), jobid(1), jobs(1), kill(1), limit(1), local(1), log(1), login(1), logout(1), ls-F(1), nice(1), nohup(1), notify(1), onintr(1), popd(1), printenv(1), pushd(1), pwd(1), read(1), readonly(1), rehash(1), repeat(1), return(1), sched(1), set(1), setenv(1), settc(1), setty(1), setvar(1), shift(1), source(1), stop(1), suspend(1), switch(1), telltc(1), test(1), then(1), time(1), times(1), trap(1), true(1), type(1), ulimit(1), umask(1), unalias(1), uncomplete(1), unhash(1), unlimit(1), unset(1), unsetenv(1), until(1), wait(1), where(1), which(1), while(1) - shell built-in commands
+changelog(n), doctools::changelog(n) - Processing text in Emacs ChangeLog format
+cupsd-logs(5)            - cupsd log files (access_log, error_log, and page_log)
+cvs(n), doctools::cvs(n) - Processing text in 'cvs log' format
+dbilogstrip(1)           - filter to normalize DBI trace logs for diff'ing
+diagnosticd(8)           - unified logging system diagnostic daemon
+diagnostics_agent(8)     - Triggers log submission
+dnsblog(8)               - Postfix DNS white/blacklist logger
+expect(1)                - programmed dialogue with interactive programs, Version 5
+fsck_cs(8)               - verify and repair CoreStorage logical volume groups
+gencat(1)                - NLS catalog compiler
+ipl(4)                   - IP packet log device
+iwidgets_canvasprintdialog(n), iwidgets::canvasprintdialog(n) - Create and manipulate a canvas print dialog widget
+iwidgets_dialog(n), iwidgets::dialog(n) - Create and manipulate a dialog widget
+iwidgets_dialogshell(n), iwidgets::dialogshell(n) - Create and manipulate a dialog shell widget
+iwidgets_extfileselectiondialog(n), iwidgets::extfileselectiondialog(n) - Create and manipulate a file selection dialog widget
+iwidgets_fileselectiondialog(n), iwidgets::fileselectiondialog(n) - Create and manipulate a file selection dialog widget
+iwidgets_finddialog(n), iwidgets::finddialog(n) - Create and manipulate a find dialog widget
+iwidgets_messagedialog(n), iwidgets::messagedialog(n) - Create and manipulate a message dialog widget
+iwidgets_promptdialog(n), iwidgets::promptdialog(n) - Create and manipulate a prompt dialog widget
+iwidgets_selectiondialog(n), iwidgets::selectiondialog(n) - Create and manipulate a selection dialog widget
+kext_logging(8), kext logging(8) - verbose/logging flags for kernel extensions (kexts) in the kernel and command-line utilities
+last(1)                  - indicate last logins of users and ttys
+log(1)                   - Access system wide log messages created by os_log, os_trace and other logging systems
+log(n)                   - Procedures to log messages of libraries and applications
+logd(8)                  - unified logging system daemon
+logger(1)                - make entries in the system log
+logger(n)                - System to control logging of events
+loggerAppender(n), logger::appender(n) - Collection of predefined appenders for logger
+loggerUtils(n), logger::utils(n) - Utilities for logger
+login(1)                 - log into the computer
+loginitemregisterd(8)    - Login Item Registration Daemon
+logkextloadsd(8)         - logs information about the kexts that get loaded
+logname(1)               - display user's login name
+logresolve(1)            - Resolve IP-addresses to hostnames in Apache log files
+msgcat(ntcl)             - Tcl message catalog
+msgcat_c(n), doctools::msgcat::toc::c(n) - Message catalog for the doctoc parser (C)
+msgcat_de(n), doctools::msgcat::toc::de(n) - Message catalog for the doctoc parser (DE)
+msgcat_en(n), doctools::msgcat::toc::en(n) - Message catalog for the doctoc parser (EN)
+msgcat_fr(n), doctools::msgcat::toc::fr(n) - Message catalog for the doctoc parser (FR)
+netlog(1)                - Log summary of every UDP and TCP socket when the socket is closed
+newsyslog(8)             - maintain system log files to manageable sizes
+newsyslog.conf(5)        - newsyslog(8) configuration file
+nlcontrol(8)             - NETLOGON secure channel utility
+nologin(5)               - disallow logins
+nologin(8)               - politely refuse a login
+os_log(5)                - logging configuration profiles
+pam_nologin(8)           - No Login PAM module
+perlsynology(1)          - Perl 5 on Synology DSM systems
+pflog(4)                 - packet filter logging interface
+postlog(1)               - Postfix-compatible logging utility
+ppdpo(1)                 - ppd message catalog generator (deprecated)
+rotatelogs(8)            - Piped logging program to rotate Apache logs
+slapo-accesslog(5)       - Access Logging overlay to slapd
+slapo-auditlog(5)        - Audit Logging overlay to slapd
+snmptrapd(8)             - Receive and log SNMP trap messages
+ssh(1)                   - OpenSSH SSH client (remote login program)
+ssh-copy-id(1)           - use locally available keys to authorise logins on a remote machine
+swaplist(n)              - A dialog which allows a user to move options between two lists
+syslog(1)                - Apple System Log utility
+syslog.conf(5)           - syslogd(8) configuration file
+syslogd(8)               - Apple System Log server
+tcllib_msgcat(n), doctools::msgcat(n) - Message catalog management for the various document parsers
+tepam_argument_dialogbox(n), tepam::argument_dialogbox(n) - TEPAM argument_dialogbox, reference manual
+tk_chooseColor(ntcl)     - pops up a dialog box for the user to select a color
+tk_chooseDirectory(ntcl) - pops up a dialog box for the user to select a directory
+tk_dialog(ntcl)          - Create modal dialog and wait for response
+tk_getOpenFile(ntcl), tk_getSaveFile(ntcl) - pop up a dialog box for the user to select a file to open or save
+tk_getString(n), getstring(n) - A string dialog
+tsort(1)                 - topological sort of a directed graph
+utmp(5), wtmp(5), lastlog(5) - login records (DEPRECATED)
+uulog(1)                 - display entries in the UUCP log file
+w(1)                     - display who is logged in and what they are doing
+who(1)                   - display who is logged in
+xmlcatalog(1)            - Command line tool to parse and manipulate XML or SGML catalog files
+xclock(1)                - analog / digital clock for X
+xlogo(1)                 - X Window System logo
+bindtextdomain(3)        - set directory containing message catalogs
+mprof-report(1)          - report generator for Mono's log profiler
+msgattrib(1)             - attribute matching and manipulation on message catalog
+msgcat(1)                - combines several message catalogs
+msgcmp(1)                - compare message catalog and template
+msgcomm(1)               - match two message catalogs
+msgconv(1)               - character set conversion for message catalog
+msgen(1)                 - create English message catalog
+msgexec(1)               - process translations of message catalog
+msgfilter(1)             - edit translations of message catalog
+msgfmt(1)                - compile message catalog to binary format
+msggrep(1)               - pattern matching on message catalog
+msginit(1)               - initialize a message catalog
+msgmerge(1)              - merge message catalog and template
+msgunfmt(1)              - uncompile message catalog from binary format
+msguniq(1)               - unify duplicate translations in message catalog
+xmlcatalog(1)            - Command line tool to parse and manipulate XML or SGML catalog files
+postmap(1)               - Postfix lookup table management
+autoproxy(n)             - Automatic HTTP proxy usage and authentication
+builtin(1), !(1), %(1), .(1), :(1), @(1), {(1), }(1), alias(1), alloc(1), bg(1), bind(1), bindkey(1), break(1), breaksw(1), builtins(1), case(1), cd(1), chdir(1), command(1), complete(1), continue(1), default(1), dirs(1), do(1), done(1), echo(1), echotc(1), elif(1), else(1), end(1), endif(1), endsw(1), esac(1), eval(1), exec(1), exit(1), export(1), false(1), fc(1), fg(1), filetest(1), fi(1), for(1), foreach(1), getopts(1), glob(1), goto(1), hash(1), hashstat(1), history(1), hup(1), if(1), jobid(1), jobs(1), kill(1), limit(1), local(1), log(1), login(1), logout(1), ls-F(1), nice(1), nohup(1), notify(1), onintr(1), popd(1), printenv(1), pushd(1), pwd(1), read(1), readonly(1), rehash(1), repeat(1), return(1), sched(1), set(1), setenv(1), settc(1), setty(1), setvar(1), shift(1), source(1), stop(1), suspend(1), switch(1), telltc(1), test(1), then(1), time(1), times(1), trap(1), true(1), type(1), ulimit(1), umask(1), unalias(1), uncomplete(1), unhash(1), unlimit(1), unset(1), unsetenv(1), until(1), wait(1), where(1), which(1), while(1) - shell built-in commands
+coreautha(8)             - LocalAuthentication user interface agent
+coreauthd(8)             - LocalAuthentication daemon and agent
+dbmmanage(1)             - Manage user authentication files in DBM format
+digest-service(8)        - handles server side authentication of digest protocols in the GSS-API suite
+htdigest(1)              - manage user files for digest authentication
+htpasswd(1)              - Manage user files for basic authentication
+ssh-add(1)               - adds private key identities to the authentication agent
+ssh-agent(1)             - authentication agent
+ssh-keygen(1)            - authentication key generation, management and conversion
+ssh-keysign(8)           - ssh helper program for host-based authentication
+zshmisc(1)               - everything and then some
+Xaw(3)                   - X Athena Widgets
+25-Hay-Bra:~ bradleyhayward$                          fc-pattern                          logger                              postmulti                           thermal
+ar                                  fc-query                            login                               postqueue                           tic
+arch                                fc-scan                             logname                             postsuper                           tidy
+arp                                 fc-validate                         logout                              power_report.sh a                   tiff2icns
+as                                  fcgistarter                         logresolve                          powermetrics                        tiffutil
+asa                                 fddist                              look                                ppdc                                time
+asctl                               fdesetup                            lookbib                             ppdhtml                             timer_analyser.d
+aslmanager                          fdisk                               lorder                          Pattern has 0 elts (size 0)
+
+25-Hay-Bra:~ bradleyhayward$ ar                                  fc-query                            login                               postqueue                           tic
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ arch                                fc-scan                             logname                             postsuper                           tidy
+arch: Can't find any plists for fc-scan
+25-Hay-Bra:~ bradleyhayward$ arp                                 fc-validate                         logout                              power_report.sh a                   tiff2icns
+usage: arp [-n] [-i interface] hostname
+       arp [-n] [-i interface] [-l] -a
+       arp -d hostname [pub] [ifscope interface]
+       arp -d [-i interface] -a
+       arp -s hostname ether_addr [temp] [reject] [blackhole] [pub [only]] [ifscope interface]
+       arp -S hostname ether_addr [temp] [reject] [blackhole] [pub [only]] [ifscope interface]
+       arp -f filename
+25-Hay-Bra:~ bradleyhayward$ as                                  fcgistarter                         logresolve                          powermetrics                        tiffutil
+asa                                 fddist                              look                                ppdc                                time
+asctl                               fdesetup                            lookbib                             ppdhtml                             timer_analyser.d
+aslmanager                          fdisk                               lorder                              ppdi                                timerfires
+asp-state                           fg                                  lp                                  ppdmerge                            times
+asp-state2                          fgrep                               lpadmin                             ppdpo                               timesyncanalyse
+asp-state4                          fi                                  lpc                                 pppd                                tkcon
+asr                                 fibreconfig                         lpinfo               xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ asa                                 fddist                              look                                ppdc                                time
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+25-Hay-Bra:~ bradleyhayward$ asctl                               fdesetup                            lookbib                             ppdhtml                             timer_analyser.d
+asctl: unknown command "fdesetup"
+usage: asctl [-p] [-l] <command> [args]
+
+The -p option causes any paths in the output to be displayed as absolute paths.
+
+The -l option writes internal logging information to a temporary file.
+
+Available commands:
+   container acl add <app specification>
+	Update the access control list for the application's container to
+	include the application's designated code requirement.
+
+   container acl add <app specification> <code requirement>
+	Update the access control list of the application's container to
+	include the specified code requirement.
+
+   container acl update <app specification>
+	Update the access control list for the application's container such
+	that it consists of only the application's designated code requirement.
+	Any other code requirements will be removed from the ACL.
+
+   container acl list <app specification>
+	Print list of code requirements in the access control list for the
+	given application's container.
+
+   container acl validate <apaslmanager                          fdisk                               lorder                              ppdi                                timerfires
+asp-state                           fg                                  lp                                  ppdmerge                            times
+asp-state2                          fgrep                               lpadmin                             ppdpo                               timesyncanalyse
+asp-state4                          fi                                  lpc                                 pppd                                tkcon
+asr                                 fibreconfig                         lpinfo                              pr                                  tkmib
+assetutil                           file                                lpmove                              praudit                             tmdiagnose
+at                                  filebyproc.d                        lpoptions                 p specification>
+   container acl verify <app specification>
+	Validate the application against each of the code requirements in its
+	container's access control list.  Each code requirement in the ACL
+	is labeled with one of the following:
+	    [FAIL]  - application does not validate against code requirement.
+	    [VALID] - application validates against code requirement.
+	    [EXACT] - application validates against code requirement and code
+		      requirement is the same as the application's designated
+		      code requirement.
+	The application must validate against at least one code requirement
+	in the container's ACL in order to run.
+
+   container path <app specification>
+	Print the path to the application's container.
+
+   container create <app specification>
+	Create a container for the specified application.
+
+   container upgrade <app specification>
+	Upgrade the application's container to the current container schema.
+
+   container repair <app specification>
+	Repairs a container's structure by re-creating any missing files.
+	Also fixes file permissions such that files are owned by the current user.
+
+   sandbox check <app specification>
+	Print whether the given application is App Sandboxed.
+
+   symlink list
+	List the paths that App Sandbox will search for symbolic links as well
+	as the paths those links currently resolve to.
+
+   entitlement check [--plist] <app specification>
+	Check App Sandbox entitlements, optionally format output as a plist
+
+   diagnose [ --no-compress |  --no-disclaimer | --no-reveal | --no-verbose ] [app <app specification>]
+	Collect diagnostic information related to Application Sandboxing and
+	containers.  Additional information concerning a specific application
+	will be gathered via the app subcommand.  This command must be run as
+	'root'.
+
+	To gather diagnostic information:
+	    sudo asctl diagnose
+	To gather diagnostic information and information about an application;
+	e.g. TextEdit:
+	    sudo asctl diagnose app --file /Applications/TextEdit.app
+	Optional arguments:
+	    --no-compress   - do not compress the folder containing the
+			       diagnostic files into a Zip file.
+	    --no-disclaimer - do not show the legal disclaimer.  Use of this
+			       option constitutes acceptance of the disclaimer.
+	    --no-reveal     - do not reveal the resulting diagnostic file(s)
+			       in Finder.
+	    --no-verbose    - silence verbose output while running diagnostics.
+
+Applications may be specified one of the following ways:
+   <name>                (e.g. TextEdit)
+   --file <path>         (e.g. --file /Applications/TextEdit.app)
+   --bundle <bundle Id>  (e.g. --bundle com.apple.TextEdit)
+   --pid <process Id>    (e.g. --pid 12345)
+
+25-Hay-Bra:~ bradleyhayward$ aslmanager                          fdisk                               lorder                              ppdi                                timerfires
+25-Hay-Bra:~ bradleyhayward$ asp-state                           fg                                  lp                                  ppdmerge                            times
+asp-state2                          fgrep                               lpadmin                             ppdpo                               timesyncanalyse
+asp-state4                          fi                                  lpc                                 pppd                                tkcon
+asr                                 fibreconfig                         lpinfo                              pr                                  tkmib
+assetutil                           file                                lpmove                              praudit                             tmdiagnose
+at                                  filebyproc.d                        lpoptions                           pre-grohtml                         tmutil
+atobm                               filecoordinationd                   lpq                                 priclass.d                          tnameserv
+atos                                fileproviderctl                     lpr                       Cannot open assembly '/Library/Frameworks/Mono.framework/Versions/5.10.1/lib/xsp/4.0/asp-state2.exe': No such file or directory.
+25-Hay-Bra:~ bradleyhayward$ asp-state2                          fgrep                               lpadmin                             ppdpo                               timesyncanalyse
+asp-state4                          fi                                  lpc                                 pppd                                tkcon
+asr                                 fibreconfig                         lpinfo                              pr                                  tkmib
+assetutil                           file                                lpmove                              praudit                             tmdiagnose
+at                                  filebyproc.d                        lpoptions                           pre-grohtml                         tmutil
+atobm                               filecoordinationd                   lpq                                 priclass.d                          tnameserv
+atos                                fileproviderctl                     lpr                             atos                                    toe
+atq                                 filtercalltree                      lprm                                prCannot open assembly '/Library/Frameworks/Mono.framework/Versions/5.10.1/lib/xsp/4.0/asp-state2.exe': No such file or directory.
+25-Hay-Bra:~ bradleyhayward$ asp-state4                          fi                                  lpc                                 pppd                                tkcon
+asr                                 fibreconfig                         lpinfo                              pr                                  tkmib
+assetutil                           file                                lpmove                              praudit                             tmdiagnose
+at                                  filebyproc.d                        lpoptions                           pre-grohtml                         tmutil
+atobm                               filecoordinationd                   lpq                                 priclass.d                          tnameserv
+atos                                fileproviderctl                     lpr                             atos                                    toe
+atq                                 filtercalltree                      lprm                                printenvatq                         top
+atrm                                find                                lpstat                              prinERROR: asp-state4 doesn't recognize any command line arguments!!!
+				
+Usage is:
+    asp-state4
+	
+It loads the remoting configuration file (will try from /Library/Frameworks/Mono.framework/Versions/5.10.1/lib/xsp/4.0/asp-state4.exe.config)
+and works until <Enter> is pressed.
+				
+25-Hay-Bra:~ bradleyhayward$ asr                                 fibreconfig                         lpinfo                              pr                                  tkmib
+asr: Unrecognized verb "fibreconfig"
+Usage: asr <verb> <options>
+  <verb> is one of the following:
+    asr help | version
+    asr restore --source <source> --target <target> [<options>]
+    asr restore --source asr://<host>/ --file <file> [<options>]
+    asr server  --source <source> --config <plist> [<options>]
+    asr imagescan --source <source> [--filechecksum] [--nostream]
+    asr info --source <source> [--plist]
+25-Hay-Bra:~ bradleyhayward$ assetutil                           file                                lpmove                              praudit                             tmdiagnose
+usage: assetutil [OPTION...] inputfile
+	assetutil processes inputfile, it will either thin the inputfile
+	removing unneeded contents, or let you know about the contents
+	of the .car file. [] are required parameters () are optional parameters
+
+	Thinning parameters
+	Generate a resulting car file based on these parameters
+		long parameters        short parameters
+		--idiom                  -i [universal/phone/pad/tv/car/watch/marketing]
+		--subtype                -t [integer]
+		--subtypefallbacks       -u [subtype separated by ':']
+		--scale                  -s [integer >= 1]
+		--display-gamut          -p [srgb/p3/all]
+		--hostedidioms           -h [phone,pad,tv,car,watch,marketing]
+		--graphicsclass          -g [GLES2,0/MTL1,2/MTL2,2/MTL3,1/MTL3,2/MTL4,1/MTL5,1/MTL6,1/ OR GLES2,0/APPLE1/APPLE2/APPLE3v1/APPLE3/APPLE4/APPLE5/APPLE6]
+		--graphicsclassfallbacks -k [graphicsclasses separated by ':']
+		--memory                 -M [integer >= 1]
+		--deployment-target      -r [9.0,10.0,11.0,12.0,12.2,13.0 (or any,2016,2017,2018,2018 plus,2019). 'any' means targeting 2015 or earlier)]
+	Output parameters - no thinning is performed when these parameters are given, the thinning parameters can be passed here to narrow down the output.
+		long parameters        short parameters
+		--info                   -I dumps a JSON file describing the contents of the inputfile
+		--main-contents          -c (path) set the filename given as the main-contents Assets car file to be used in name lookup
+		--compare-thinning       -T (thinning parameters) compare thinning attributes 'scale=2:idiom=phone:hostedidioms=watch,car:memory=2:graphicsclass=MTL1,2/scale=2:idiom=phone:memory=1:graphicsclass=MTL2,2'
+		--thinning-parameters    -P generate thinning parameters information
+	General parameters
+		long parameters        short parameters
+		--output                 -o [path]
+		--version                -V shows version info
+		--update-bitmap          -U update the bitmap index of inputfile 
+		--preserve-assets-named  -n [name] preserves a comma separated list of names to preserve in the car file
+
+at                                  filebyproc.d                        lpoptions                           pre-grohtml                         tmutil
+atobm                               filecoordinationd                   lpq                                 priclass.d                          tnameserv
+atos                                fileproviderctl                     lpr                             atos                                    toe
+atq                                 filtercalltree                      lprm                                printenvatq                         top
+atrm                                find                                lpstat                              printf                              tops
+atsutil                             find2perl                           ls                                  procsystime                         topsyscall
+audit                               find2perl5.18                       lsappinfo                           produ25-Hay-Bra:~ bradleyhayward$ at                                     lpoptions                           pre-grohtml                         tmutil
+at: garbled time
+25-Hay-Bra:~ bradleyhayward$ atobm                               filecoordinationd                   lpq                                 priclass.d                          tnameserv
+atos                                fileproviderctl                     lpr                             atos                                    toe
+atq                                 filtercalltree                      lprm                                printenvatq                         top
+atrm                                find                                lpstat                              printf                              tops
+atsutil                             find2perl                           ls                                  procsystime                         topsyscall
+audit                               find2perl5.18                       lsappinfo                           productbuild                        topsysproc
+auditd                              findrule                            lsbom                               productsign                         touch
+auditreduce                         findrule5.18                        lskq                                profiatobm:  unable to open file "tnameserv".
+25-Hay-Bra:~ bradleyhayward$ atos                                fileproviderctl                     lpr                             atos                                    toe
+[invalid usage]: no processes or executables specified
+
+Usage: atos [-p pid] [-o executable] [-f file] [-s slide | -l loadAddress] [-arch architecture] [-printHeader] [-fullPath] [address ...]
+
+        --fullPath  show full path to source file
+25-Hay-Bra:~ bradleyhayward$ atq                                 filtercalltree                      lprm                                printenvatq                         top
+atq: invalid job number
+25-Hay-Bra:~ bradleyhayward$ atrm                                find                                lpstat                              printf                              tops
+25-Hay-Bra:~ bradleyhayward$ atsutil                             find2perl                           ls                                  procsystime                         topsyscall
+audit                               find2perl5.18                       lsappinfo                           productbuild                        topsysproc
+auditd                              findrule                            lsbom                               productsign                         touch
+auditreduce                         findrule5.18                        lskq                                profiles                            tpctl
+automator                           findrule5.28                        lsm                                 prove                               tput
+automount                           finger                              lsmp                                prove5.18                           tr
+auval                               firmwarepasswd                      lsof                                prove5.28                           trace
+auvaltool                           fixproc                             lsvfs                               ps       Usage: atsutil <verb> <options> [<path>]
+	<verb> is one of the following:
+		atsutil autoactivation [<options>] [<path>]
+		atsutil fonts [<options>]
+		atsutil server [<options>]
+		atsutil databases [<options>]
+		atsutil help
+25-Hay-Bra:~ bradleyhayward$ audit                               find2perl5.18                       lsappinfo                           productbuild                        topsysproc
+Usage: audit -e | -i | -n | -s | -t 
+25-Hay-Bra:~ bradleyhayward$ auditd                              findrule                            lsbom                               productsign                         touch
+25-Hay-Bra:~ bradleyhayward$ auditreduce                         findrule5.18                        lskq                                profiles                            tpctl
+automator                           findrule5.28                        lsm                                 prove                               tput
+automount                           finger                              lsmp                                prove5.18                           tr
+auval                               firmwarepasswd                      lsof                                prove5.28                           trace
+auvaltool                           fixproc                             lsvfs                               ps                                  traceroute
+avbdeviced                          flex                                luit                                psed                                traceroute6
+avbdiagnose                         flex++                              lwp-download                        psed5.18                            trap
+avbutil                             fmt                                 lwp-download5.18                    pstoauditreduce: Couldn't open findrule5.18
+25-Hay-Bra:~ bradleyhayward$ automator                           findrule5.28                        lsm                                 prove                               tput
+automount                           finger                              lsmp                                prove5.18                           tr
+auval                               firmwarepasswd                      lsof                                prove5.28                           trace
+auvaltool                           fixproc                             lsvfs                               ps                                  traceroute
+avbdeviced                          flex                                luit                                psed                                traceroute6
+avbdiagnose                         flex++                              lwp-download                        psed5.18                            trap
+avbutil                             fmt                                 lwp-download5.18                    pstopdf                             traptoemail
+avconvert                           fold                                lwp-download5.28                 The file “tput” couldn’t be opened because there is no such file.
+The operation couldn’t be completed. No such file or directory
+25-Hay-Bra:~ bradleyhayward$ automount                           finger                              lsmp                                prove5.18                           tr
+automount: finger: command line mountpoints/maps no longer supported
+automount: Usage: automount  [ -vcu ]  [ -t duration ]
+25-Hay-Bra:~ bradleyhayward$ auval                               firmwarepasswd                      lsof                                prove5.28                           trace
+
+    AU Validation Tool
+    Version: 1.7.0 
+    Copyright 2003-2019, Apple Inc. All Rights Reserved.
+    Specify -h (-help) for command options
+
+
+Invalid Arguments: firmwarepasswd
+
+25-Hay-Bra:~ bradleyhayward$ auvaltool                           fixproc                             lsvfs                               ps                                  traceroute
+
+    AU Validation Tool
+    Version: 1.7.0 
+    Copyright 2003-2019, Apple Inc. All Rights Reserved.
+    Specify -h (-help) for command options
+
+
+Invalid Arguments: fixproc
+
+25-Hay-Bra:~ bradleyhayward$ avbdeviced                          flex                                luit                                psed                                traceroute6
+avbdiagnose                         flex++                              lwp-download                        psed5.18                            trap
+avbutil                             fmt                                 lwp-download5.18                    pstopdf                             traptoemail
+avconvert                           fold                                lwp-download5.28                    pstruct                             treereg
+avmetareadwrite                     font_cache                          lwp-dump                            pstruct5.18                         treereg5.18
+awk                                 fontrestore                         lwp-dump5.18                        ptar                                treereg5.28
+banner                              fonttosfnt                          lwp-dump5.28                        ptar5.18                            trimforce
+base64                              footprint                           lwp-mirror             
